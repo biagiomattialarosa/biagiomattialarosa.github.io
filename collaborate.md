@@ -1,8 +1,8 @@
 ---
 layout: collaborate
-permalink: /collaborate/
+permalink: collaborate.html
 title: Work Together
-tags: [about]
+tags: [collaborate]
 modified: 8-7-2014
 comments: false
 ---
