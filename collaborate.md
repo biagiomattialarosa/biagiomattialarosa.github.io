@@ -1,6 +1,6 @@
 ---
 layout: collaborate
-permalink: collaborate.html
+permalink: /collaborate/
 title: Work Together
 tags: [collaborate]
 modified: 8-7-2014
