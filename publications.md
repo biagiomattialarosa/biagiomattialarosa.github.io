@@ -40,4 +40,4 @@ Explainable Inference on Sequential Data via Memory-Tracking<br>
 **Short Abstract**:<br>
 **Area**: Natural Language Processing <br>
 **Supervisor**: <a href="http://robertocapobianco.com/">Roberto Navigli</a><br>
-Only in italian!! <a href="files/bachelor.pdf">[PDF]</a>
+Only in italian!! <a href="../files/bachelor.pdf">[PDF]</a>
