@@ -27,14 +27,14 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Curriculum
-    url: /cv/
   - title: News
     url: /news/
   - title: Collaborate
     url: /collaborate/
   - title: Publications
     url: /publications/
+  - title: Curriculum
+    url: /cv/
 #  - title: Code
 #    url: /code/
 #  - title: Blog
