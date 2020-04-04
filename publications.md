@@ -8,7 +8,7 @@ comments: false
 ---
 
 
-#### Unpublished / Work in Progress
+### Unpublished / Work in Progress
 - Biagio La Rosa, Roberto Capobianco and Daniele Nardi <br>
 Explainable Inference on Sequential Data via Memory-Tracking<br>
 <a href="javascript:toggleBibtex('LaRosa2020')">[BibTeX]</a>
@@ -27,3 +27,17 @@ Explainable Inference on Sequential Data via Memory-Tracking<br>
 }
 </pre>
 </div>
+
+### Theses
+
+#### Master
+**Short Abstract**:<br>
+**Area**: Explainable Artificial Intelligence <br>
+**Supervisor**: <a href="http://robertocapobianco.com/">Roberto Capobianco</a><br>
+[PDF]
+#### Bachelor 
+
+**Short Abstract**:<br>
+**Area**: Natural Language Processing <br>
+**Supervisor**: <a href="http://robertocapobianco.com/">Roberto Navigli</a><br>
+[PDF]
