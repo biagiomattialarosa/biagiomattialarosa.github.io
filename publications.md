@@ -7,4 +7,10 @@ modified: 8-7-2014
 comments: false
 ---
 
-You can also browse my <a href="http://scholar.google.es/citations?user=VCBBx24AAAAJ" target="_blank">Google Scholar profile</a>.
+
+#### Unpublished / Work in Progress
+- Biagio La Rosa, Roberto Capobianco, and Daniele Nardi <br>
+Explainable Inference on Sequential Data via Memory-Tracking<br>
+a href="javascript:toggleBibtex('Pont-Tuset2017')">[BibTeX]</a>
+[PDF]
+<a href="https://github.com/biagiomattialarosa/MANNexplanations" target="_blank">[Code]</a>.
