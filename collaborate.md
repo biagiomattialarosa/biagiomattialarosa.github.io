@@ -1,5 +1,5 @@
 ---
-layout: collaborate
+layout: onlymarkdown
 permalink: /collaborate/
 title: Work Together
 tags: [collaborate]
