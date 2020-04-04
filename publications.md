@@ -16,7 +16,7 @@ Explainable Inference on Sequential Data via Memory-Tracking<br>
 <a href="https://github.com/biagiomattialarosa/MANNexplanations" target="_blank">[Code]</a>.
 <div id="bib_LaRosa2020" class="bibtex noshow">
 <pre>
-@article{Pont-Tuset2017,
+@article{LaRosa2020,
   author = {La Rosa, Biagio and Capobianco, Roberto and Nardi, Daniele},
   title = {Explainable Inference on Sequential Data via Memory-Tracking},
   journal = {},

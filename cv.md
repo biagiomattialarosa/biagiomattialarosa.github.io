@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: onlymarkdown
 permalink: /cv/
 title: My CV
 tags: [about]
