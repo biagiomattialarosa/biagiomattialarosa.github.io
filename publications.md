@@ -9,7 +9,7 @@ comments: false
 
 
 #### Unpublished / Work in Progress
-- Biagio La Rosa, Roberto Capobianco, and Daniele Nardi <br>
+- Biagio La Rosa, Roberto Capobianco and Daniele Nardi <br>
 Explainable Inference on Sequential Data via Memory-Tracking<br>
 <a href="javascript:toggleBibtex('LaRosa2020')">[BibTeX]</a>
 [PDF]
@@ -17,13 +17,13 @@ Explainable Inference on Sequential Data via Memory-Tracking<br>
 <div id="bib_LaRosa2020" class="bibtex noshow">
 <pre>
 @article{Pont-Tuset2017,
-  author = {J. Pont-Tuset and P. Arbel\'{a}ez and J. Barron and F.Marques and J. Malik},
-  title = {Multiscale Combinatorial Grouping for Image Segmentation and Object Proposal Generation},
-  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
-  year = {2017},
-  volume = {39},
-  number = {1},
-  pages = {128 - 140}
+  author = {La Rosa, Biagio and Capobianco, Roberto and Nardi, Daniele},
+  title = {Explainable Inference on Sequential Data via Memory-Tracking},
+  journal = {},
+  year = {2020},
+  volume = {},
+  number = {},
+  pages = {}
 }
 </pre>
 </div>
