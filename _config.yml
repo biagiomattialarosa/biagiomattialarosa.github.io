@@ -29,12 +29,12 @@ bing_verify:
 links:
   - title: Curriculum
     url: /cv/
-  - title: Publications
-    url: /publications/
-  - title: Collaborate
-    url: /collaborate/
   - title: News
     url: /news/
+  - title: Collaborate
+    url: /collaborate/
+  - title: Publications
+    url: /publications/
 #  - title: Code
 #    url: /code/
 #  - title: Blog
