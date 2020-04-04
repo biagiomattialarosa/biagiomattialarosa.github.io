@@ -21,5 +21,6 @@ I would also very happy to work, deepening my knowledge on them, on:
 - Natural Language Understanding.
 - Bio-Inspired Architectures.
 
-If you want to collaborate with me and you are a graduate student or a phd student, please send me an email with the subject [collaboration], indicating your advisor/laboratory. Usually, my response time is less than 1 day.
+If you want to collaborate with me and you are a graduate student or a phd student,
+ please send me an email with the subject **[collaboration]**, indicating your advisor/laboratory. Usually, my response time is less than 1 day.
 
