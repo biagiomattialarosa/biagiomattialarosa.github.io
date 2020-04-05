@@ -1,21 +1,15 @@
 ---
 layout: home2
-title: Me in a Nutshell
-description: "Jordi Pont-Tuset's website"
+title: Me in a few words
+description: 
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: trees.jpg
+  feature: 
 ---
 
-I am a research scientist at <a href="https://research.google.com" target="_blank">Google Research</a> 
-and part of the advisory board of <a href="http://www.vilynx.com/index.html" target="_blank">Vilynx</a>.
+I am a graduate student on Artificial Intelligence & Robotics.
 
-<br />
-Previously, I worked at <a href="http://www.vision.ee.ethz.ch/index.en.html" target="_blank">ETHZ</a>
-and <a href="http://www.disneyresearch.com/research-labs/disney-research-zurich/" target="_blank">Disney Research</a>,
-and I collaborated with <a href="http://www.cs.berkeley.edu/~malik/" target="_blank">Prof. J. Malik</a>'s vision group 
-and with the startup <a href="https://gestoos.com" target="_blank">Fezoo</a>.
+I am interested on the discovery of new methods to explain the behavior of black box models (e.g Deep Machine Learning Models) to helps us for the debugging and improving of such a models.
 
-<br />
-I am a mathematician, engineer, and PhD in computer vision by <a href="http://www.upc.edu" target="_blank">UPC Barcelonatech</a>.
+Previously I obtained by Bachelor's degree in Computer Science at Sapienza University.
 
