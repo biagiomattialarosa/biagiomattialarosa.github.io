@@ -10,7 +10,8 @@ comments: false
 
 ### Unpublished / Work in Progress
 - *"Explainable Inference on Sequential Data via Memory-Tracking"* 
-Biagio La Rosa, Roberto Capobianco and Daniele Nardi <br>
+Biagio La Rosa, Roberto Capobianco and Daniele Nardi
+<br>
 <a href="javascript:toggleBibtex('LaRosa2020')">[BibTeX]</a>
 [PDF]
 <a href="https://github.com/biagiomattialarosa/MANNexplanations" target="_blank">[Code]</a>.
@@ -32,12 +33,11 @@ Biagio La Rosa, Roberto Capobianco and Daniele Nardi <br>
 
 #### Master
 **Short Abstract**: The thesis presents a novel mechanism to get hints of
-explanation, that allow to better understand network predictions
-when dealing with sequential data, exploiting the capability of
+explanation exploiting the capability of
 memory-based networks – Differential Neural Computers – to store  data in memory and reusing it
 for inference. By tracking both the memory access at prediction
 time, and the information stored by the network at each step of
-the input sequence, it is possible to retrieve the most relevant input steps associated to each prediction.
+the input sequence, it is possible to retrieve the most relevant input steps associated to each prediction. The mechanism is tested on two problems: a modified version of T-Maze and the Story Cloze Test task. The work studies also the influence of parameters and the adequacy of the extracted explanations.
 <br>
 **Area**: Explainable Artificial Intelligence <br>
 **Supervisor**: <a href="http://robertocapobianco.com/">Roberto Capobianco</a><br>
