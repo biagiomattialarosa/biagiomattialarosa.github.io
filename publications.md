@@ -9,8 +9,8 @@ comments: false
 
 
 ### Unpublished / Work in Progress
-- Biagio La Rosa, Roberto Capobianco and Daniele Nardi <br>
-*"Explainable Inference on Sequential Data via Memory-Tracking"*<br>
+- *"Explainable Inference on Sequential Data via Memory-Tracking"* 
+Biagio La Rosa, Roberto Capobianco and Daniele Nardi <br>
 <a href="javascript:toggleBibtex('LaRosa2020')">[BibTeX]</a>
 [PDF]
 <a href="https://github.com/biagiomattialarosa/MANNexplanations" target="_blank">[Code]</a>.
@@ -31,10 +31,17 @@ comments: false
 ### Theses
 
 #### Master
-**Short Abstract**:<br>
+**Short Abstract**: The thesis presents a novel mechanism to get hints of
+explanation, that allow to better understand network predictions
+when dealing with sequential data, exploiting the capability of
+memory-based networks – Differential Neural Computers – to store  data in memory and reusing it
+for inference. By tracking both the memory access at prediction
+time, and the information stored by the network at each step of
+the input sequence, it is possible to retrieve the most relevant input steps associated to each prediction.
+<br>
 **Area**: Explainable Artificial Intelligence <br>
 **Supervisor**: <a href="http://robertocapobianco.com/">Roberto Capobianco</a><br>
-[PDF]
+<a href="../files/master.pdf">[PDF]</a>
 #### Bachelor 
 
 **Short Abstract**:  The work presents a supersense tagger based on Wikipedia and BabelNet.
