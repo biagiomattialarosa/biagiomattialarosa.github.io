@@ -10,7 +10,7 @@ disqus_shortname: biagiomattialarosa
 owner:
   name:           Biagio Mattia La Rosa
   avatar:         
-  bio:            I'm a graduate student of Artificial Intelligence & Robotics. Currently in Rome, Italy. Passionate about eXplainable Artificial Intelligence, psychology, games, and astronomy.
+  bio:            I'm a graduate on Artificial Intelligence & Robotics. Currently in Rome, Italy. Passionate about eXplainable Artificial Intelligence, psychology, games, and astronomy.
   email:          biagiomattialarosa@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: larosabiagio
@@ -33,8 +33,8 @@ links:
     url: /collaborate/
   - title: Publications
     url: /publications/
-  - title: Cv
-    url: /cv/
+#  - title: Cv
+#    url: /cv/
 #  - title: Code
 #    url: /code/
   - title: Blog
