@@ -6,7 +6,7 @@ tags: [about]
 modified: 8-7-2014
 comments: false
 ---
-- I obtained a Master's degree on Artificial Intelligence and Robotics and a Bachelor's degree on Computer Science at <a href="https://www.uniroma1.it/it/pagina-strutturale/home">
+- I obtained a Masters degree on Artificial Intelligence and Robotics and a Bachelors degree on Computer Science at <a href="https://www.uniroma1.it/it/pagina-strutturale/home">
 Sapienza University</a>.  
 - In my **master's thesis** I developed a module for Memory-Augmented Neural Networks to get 
 explanations for sequential data settings,
