@@ -16,4 +16,5 @@ comments: false
 
 - **20/04/2020**:
     - Successfully defended my Master Thesis
-
+- **23/03/2020**:
+    - Presented my thesis work about explainability on sequential data at <a href="http://labrococo.dis.uniroma1.it/">Cognitive Cooperating Robots (RoCoCo) Lab</a> 
