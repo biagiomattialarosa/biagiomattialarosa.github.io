@@ -7,7 +7,7 @@ image:
   feature: 
 ---
 
-I am a MSc graduate on Artificial Intelligence & Robotics and aspirant phd, currently located in Rome, Italy.
+I am a MSc graduate on Artificial Intelligence & Robotics and aspirant phd student, currently located in Rome, Italy.
 
 I am most interested in reasearch that explains the behavior of black box models (e.g Deep Neural Networks) combining tools from diffent areas of Machine Learning.
 ![Image of a black box behavior](../files/images/blackbox.jpg)
