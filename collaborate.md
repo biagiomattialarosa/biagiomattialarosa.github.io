@@ -17,6 +17,7 @@ Specifically, my current works are closely related to the following domains:
 - Neural-Symbolic Approaches. 
 
 I would also very happy to work, deepening my knowledge on them, on:
+- Network Pruning
 - Evolutionary Deep Learning.
 - Natural Language Understanding.
 - Bio-Inspired Architectures.
