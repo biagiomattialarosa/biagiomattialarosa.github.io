@@ -40,7 +40,6 @@ the input sequence, it is possible to retrieve the most relevant input steps ass
 <br>
 **Area**: Explainable Artificial Intelligence <br>
 **Supervisor**: <a href="http://robertocapobianco.com/">Roberto Capobianco</a><br>
-<a href="../files/master.pdf">[PDF]</a>
 #### Bachelor 
 
 **Short Abstract**:  The work presents a supersense tagger based on Wikipedia and BabelNet.
@@ -51,4 +50,3 @@ entity in a text according to a general semantic taxonomy. In our case BabelNet 
  and used as dataset for the training of an SVM classifier based on the framework It Makes Sense. <br>
 **Area**: Natural Language Processing <br>
 **Supervisor**: <a href="http://robertocapobianco.com/">Roberto Navigli</a><br>
-Only in italian!! <a href="../files/bachelor.pdf">[PDF]</a>
