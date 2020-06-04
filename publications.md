@@ -9,10 +9,9 @@ comments: false
 
 
 ### 2020
-- *"Explainable Inference on Sequential Data via Memory-Tracking"*.
-<br> 
-Biagio La Rosa, Roberto Capobianco and Daniele Nardi.
-<br> In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI), 2020
+- **"Explainable Inference on Sequential Data via Memory-Tracking"**.
+<br>Biagio La Rosa, Roberto Capobianco and Daniele Nardi.
+<br> <em>In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI), 2020</em>
 <br>
 <a href="javascript:toggleBibtex('LaRosa2020')">[BibTeX]</a>
 [PDF]
