@@ -8,7 +8,7 @@ comments: false
 ---
 
 
-### Forthcoming
+### 2020
 - *"Explainable Inference on Sequential Data via Memory-Tracking"*.
 <br> 
 Biagio La Rosa, Roberto Capobianco and Daniele Nardi.
@@ -16,18 +16,16 @@ Biagio La Rosa, Roberto Capobianco and Daniele Nardi.
 <br>
 <a href="javascript:toggleBibtex('LaRosa2020')">[BibTeX]</a>
 [PDF]
-<a href="https://github.com/biagiomattialarosa/MANNexplanations" target="_blank">[Code]</a>.
+<a href="https://github.com/KRLGroup/explainable-inference-on-sequential-data-via-memory-tracking" target="_blank">[Code]</a>.
 <div id="bib_LaRosa2020" class="bibtex noshow">
 <pre>
-@article{LaRosa2020,
-  author = {La Rosa, Biagio and Capobianco, Roberto and Nardi, Daniele},
-  title = {Explainable Inference on Sequential Data via Memory-Tracking},
-  journal = {},
-  year = {2020},
-  volume = {},
-  number = {},
-  pages = {}
+@InProceedings{LaRosa2020,
+  author    = {La Rosa, Biagio and Capobianco, Roberto and Nardi, Daniele},
+  title     = {Explainable Inference on Sequential Data via Memory-Tracking},
+  booktitle = {Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI)},
+  year      = {2020},
 }
+
 </pre>
 </div>
 
