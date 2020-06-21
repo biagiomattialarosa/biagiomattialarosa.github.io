@@ -10,7 +10,7 @@ disqus_shortname: biagiomattialarosa
 # Owner/author information
 owner:
   name:           Biagio Mattia La Rosa
-  avatar:         files/images/me.jpg
+  avatar:         me.jpg
   bio:            I am a graduate on Artificial Intelligence & Robotics. Currently in Rome, Italy. Passionate about eXplainable Artificial Intelligence, psychology, games, and astronomy.
   email:          biagiomattialarosa@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
