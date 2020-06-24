@@ -1,4 +1,4 @@
-title:            Biagio La Rosa
+title:            Biagio Mattia La Rosa
 tagline: Personal academic site of Biagio La Rosa
 description:      Bio, interests (especially on Explainable Artificial Intelligence) and news about Biagio La Rosa. 
 # Your site's domain goes here. Leave localhost server or blank when working locally.
@@ -9,7 +9,7 @@ disqus_shortname: biagiomattialarosa
 
 # Owner/author information
 owner:
-  name:           Biagio La Rosa
+  name:           Biagio Mattia La Rosa
   avatar:         me.jpg
   bio:            I am a graduate on Artificial Intelligence & Robotics. Currently in Rome, Italy. Passionate about eXplainable Artificial Intelligence, psychology, games, and astronomy.
   email:          biagiomattialarosa@gmail.com
