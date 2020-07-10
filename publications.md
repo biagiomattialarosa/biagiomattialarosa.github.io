@@ -14,15 +14,21 @@ comments: false
 <br> <em>In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI), 2020</em>
 <br>
 <a href="javascript:toggleBibtex('LaRosa2020')">[BibTeX]</a>
-[PDF]
+<a href="https://www.ijcai.org/Proceedings/2020/0278.pdf">[PDF]</a>
 <a href="https://github.com/KRLGroup/explainable-inference-on-sequential-data-via-memory-tracking" target="_blank">[Code]</a>.
 <div id="bib_LaRosa2020" class="bibtex noshow">
 <pre>
-@InProceedings{LaRosa2020,
-  author    = {La Rosa, Biagio and Capobianco, Roberto and Nardi, Daniele},
+@inproceedings{LaRosa20,
   title     = {Explainable Inference on Sequential Data via Memory-Tracking},
-  booktitle = {Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI)},
+  author    = {La Rosa, Biagio and Capobianco, Roberto and Nardi, Daniele},
+  booktitle = {Proceedings of the Twenty-Ninth International Joint Conference on
+               Artificial Intelligence, {IJCAI-20}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},             
+  pages     = {2006--2013},
   year      = {2020},
+  month     = {7},
+  doi       = {10.24963/ijcai.2020/278},
+  url       = {https://doi.org/10.24963/ijcai.2020/278},
 }
 
 </pre>
