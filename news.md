@@ -10,7 +10,7 @@ comments: false
 
 ### Papers
 - **10/07/2020**
-    -  IJCAI-2020 proceedings are out!! You can find our article <a href="https://www.ijcai.org/Proceedings/2020/0278.pdf">here</a>. Code and blog post are coming soon!
+    -  IJCAI-2020 proceedings are out!! You can find our paper <a href="https://www.ijcai.org/Proceedings/2020/0278.pdf">here</a>. The code and the blog post are coming soon!
 - **20/04/2020**
     - Our paper on "Explainable Inference on Sequencial Data via Memory-Tracking" has been accepted at IJCAI-PRICAI 2020 !!!
     
