@@ -9,10 +9,10 @@ image:
 
 I am a MSc graduate on Artificial Intelligence & Robotics and a prospective phd student, currently located in Rome, Italy.
 
-I am most interested in reasearch that explains the behavior of black box models (e.g Deep Neural Networks) combining tools from diffent areas of Machine Learning.
+I am most interested in reasearch that explains the behavior of black box models (e.g. Deep Neural Networks) combining tools from diffent areas of Machine Learning.
 ![Image of a black box behavior](../files/images/blackbox.jpg)
 <br>
-In particular I am interested on the application of explainable AI to debug and to better understand the deep learning models. 
+In particular I am interested on the application of explainable AI to debug and to better understand the deep learning models.
 <br><br>
 
 During my master thesis I studied the problem of getting explainability on sequential tasks supervised by <a href="http://robertocapobianco.com/">Prof. Roberto Capobianco</a>.
