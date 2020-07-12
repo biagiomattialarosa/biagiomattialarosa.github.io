@@ -9,7 +9,7 @@ image:
 
 I am a MSc graduate on Artificial Intelligence & Robotics and a prospective phd student, currently located in Rome, Italy.
 
-I am most interested in reasearch that explains the behavior of black box models (e.g. Deep Neural Networks) combining tools from diffent areas of Machine Learning.
+I am most interested in research that explains the behavior of black box models (e.g. Deep Neural Networks) combining tools from different areas of Machine Learning. My current research focuses on explainability for the Memory Augmented Neural Networks.
 ![Image of a black box behavior](../files/images/blackbox.jpg)
 <br>
 In particular I am interested on the application of explainable AI to debug and to better understand the deep learning models.
