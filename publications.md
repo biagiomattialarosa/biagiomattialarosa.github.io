@@ -15,7 +15,7 @@ comments: false
 <br>
 <a href="javascript:toggleBibtex('LaRosa2020')">[BibTeX]</a>
 <a href="https://www.ijcai.org/Proceedings/2020/0278.pdf">[PDF]</a>
-<a href="https://github.com/KRLGroup/explainable-inference-on-sequential-data-via-memory-tracking" target="_blank">[Code]</a>.
+<a href="https://github.com/KRLGroup/explainable-inference-on-sequential-data-via-memory-tracking/tree/pytorch" target="_blank">[Code]</a>.
 <div id="bib_LaRosa2020" class="bibtex noshow">
 <pre>
 @inproceedings{LaRosa20,
