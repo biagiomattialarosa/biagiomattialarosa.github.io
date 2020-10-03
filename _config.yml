@@ -5,8 +5,12 @@ description:      Bio, interests (especially on Explainable Artificial Intellige
 url:              https://biagiomattialarosa.github.io
 #http://localhost:5000
 #https://jponttuset.github.io
-disqus_shortname: biagiomattialarosa
 
+# Disqus Comments
+disqus:
+  # Leave shortname blank to disable comments site-wide.
+  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+  shortname: biagiomattialarosa
 # Owner/author information
 owner:
   name:           Biagio Mattia La Rosa

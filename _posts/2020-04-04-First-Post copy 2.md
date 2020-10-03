@@ -5,7 +5,7 @@ description: "A test"
 comments: true
 ---
 
-This post describes the proposed approach of our IJCAI paper "Explainable Inference on Sequential Tasks via Memory-Trakcing" written by Biagio La Rosa, Roberto Capobianco and Daniele Nardi.
+This post describes the proposed approach of our IJCAI paper "Explainable Inference on Sequential Tasks via Memory-Tracking" written by Biagio La Rosa, Roberto Capobianco and Daniele Nardi.
 
 
 Sequential tasks are tipically solved by recurrent network like LSTM, MANN or more recently by transformers. These networks are black boxes.

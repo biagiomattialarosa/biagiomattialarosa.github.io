@@ -7,12 +7,12 @@ image:
   feature: 
 ---
 
-I am a MSc graduate on Artificial Intelligence & Robotics and a prospective phd student, currently located in Rome, Italy.
+I am a PhD student in <a href=http://labrococo.dis.uniroma1.it/">Ro.Co.Co. Lab</a> at <a href=https://www.dis.uniroma1.it/en">Department of Computer, Control, and Management Engineering "Antonio Ruberti"</a> of <a href=https://www.uniroma1.it/">Sapienza University</a>. Currently, I am a member of <a href="https://krlgroup.github.io/"> Knowledge, Reasoning and Learning research group </a>.
 
-I am most interested in research that explains the behavior of black box models (e.g. Deep Neural Networks) combining tools from different areas of Machine Learning. My current research focuses on explainability for the Memory Augmented Neural Networks.
+My area of interest is eXplainable Artifificial Intelligence (XAI); in particular I am most interested in research that explains the behavior of black box models (e.g. Deep Neural Networks) combining tools from different areas of Machine Learning. 
 ![Image of a black box behavior](../files/images/blackbox.jpg)
 <br>
-In particular I am interested on the application of explainable AI to debug and to better understand the deep learning models.
+My latest works focus on explainability for the Memory Augmented Neural Networks and commonsense reasoning. 
 <br><br>
 
 During my master thesis I studied the problem of getting explainability on sequential tasks supervised by <a href="http://robertocapobianco.com/">Prof. Roberto Capobianco</a>.
