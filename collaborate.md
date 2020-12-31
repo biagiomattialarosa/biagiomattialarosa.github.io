@@ -11,7 +11,7 @@ comments: false
 I'm mainly interested in the development of methodologies to improve the interpretability
 of deep learning approaches. Currently, I'm working on intrinsic methods embedded directly inside the architecture of deep neural networks, enriching them with elements usefull for explainaibility purpose.<br>
 Specifically, my recent works are closely related to the following domains:
-- Memory-Augumented Neural Networks.
+- Memory-Augmented Neural Networks.
 - Multi-hop reasoning.
 - Image Classification. 
 
