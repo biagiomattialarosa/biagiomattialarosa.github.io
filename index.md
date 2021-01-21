@@ -14,8 +14,7 @@ I am a continuous learner looking for new concepts, also from domains and fields
 My area of interest is eXplainable Artificial Intelligence (XAI); in particular I am most interested in research that explains the behavior of black box models (e.g. Deep Neural Networks) combining tools from different areas of Machine Learning. I am deeply interested on the connection between memory, learning process and interpretability from both computational and cognitive perspectives.
 ![Image of a black box behavior](../files/images/blackbox.jpg)
 <br>
-My latest works focus on explainability for the Memory Augmented Neural Networks, commonsense reasoning. 
-<br><br>
+<br>
 
 I have a background in computer science and Artificial Intelligence, having a M. Sc. degree in "Artificial Intelligence and Robotics" and a B. Sc. in "Computer Science", both from the Sapienza University.<br>
 During my master thesis I studied the problem of getting explainability on sequential tasks supervised by <a href="http://robertocapobianco.com/">Prof. Roberto Capobianco</a>.
