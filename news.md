@@ -9,6 +9,10 @@ comments: false
 
 
 ### Papers
+- **01/06/2021**
+  - Available pre-print on Arxiv of our next paper *Memory Wrap: a Data-Efficient and Interpretable Extension to Image Classification Models* <a href="https://arxiv.org/abs/2106.01440">here</a>
+- **13/01/2021**
+  - Presented our paper at IJCAI2020
 - **04/10/2020**
   - Blog post about our paper *""Explainable Inference on Sequential Data via Memory-Tracking"* is officially out <a href="https://krlgroup.github.io/explainable_inference">here</a> 
 - **01/09/2020**
