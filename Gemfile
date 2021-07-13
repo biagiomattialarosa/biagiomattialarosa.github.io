@@ -7,3 +7,4 @@ gem 'rouge'
 gem 'ffi', '>= 1.9.24'
 gem 'jekyll-sitemap'
 gem 'jekyll-seo-tag'
+gem "addressable", ">= 2.8.0"
