@@ -15,12 +15,10 @@ Specifically, my recent works are closely related to the following domains:
 - Attention mechanisms.
 - Image Classification.
 - Explanation by Example and Counterfactuals 
+- Concept-based explanations
 
 I would also very happy to work, deepening my knowledge on them, on:
-- Network Pruning
 - Explainable Reinforcement Learning.
-- Machine Learning for Healthcare.
-- Brain-inspired neural networks.
 
 If you want to collaborate with me and you are a graduate student or a phd student,
  please send me an email with the subject **[collaboration]**, indicating your advisor/laboratory. Usually, my response time is less than 1 day.
