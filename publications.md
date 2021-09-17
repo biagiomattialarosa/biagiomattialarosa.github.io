@@ -22,6 +22,9 @@ comments: false
   author    = {Makinwa, Sayo M. and La Rosa, Biagio and Capobianco, Roberto},
   year      = {2021},
   url       = {https://arxiv.org/abs/2109.07804},
+  eprint={2109.07804},
+  archivePrefix={arXiv},
+  primaryClass={cs.LG}
 }
 </pre>
 
