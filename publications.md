@@ -8,7 +8,23 @@ comments: false
 ---
 
 ### Pre-prints
-- **"Memory Wrap: a Data-Efficient and Interpretable Extension to Image Classification Models"**.
+- **Detection Accuracy for Evaluating Compositional Explanations of Units**
+<br>Sayo M. Makinwa, Biagio La Rosa, Roberto Capobianco.
+<br>
+<a href="javascript:toggleBibtex('Makinwa2021')">[BibTeX]</a>
+<a href="https://arxiv.org/abs/2106.01440">[PDF]</a>
+<!--<a href="https://github.com/KRLGroup/memory-wrap/" target="_blank">[Code]</a>-->
+<!-- <a href="https://krlgroup.github.io//explainable_inference" target="_blank">[Blog Post]</a>. -->
+<div id="bib_Makinwa2021" class="bibtex noshow">
+<pre>
+@inproceedings{Makinwa,
+  title     = {Detection Accuracy for Evaluating Compositional Explanations of Units},
+  author    = {Makinwa, Sayo M. and La Rosa, Biagio and Capobianco, Roberto},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2109.07804},
+}
+
+- **Memory Wrap: a Data-Efficient and Interpretable Extension to Image Classification Models**.
 <br>Biagio La Rosa, Roberto Capobianco and Daniele Nardi.
 <br>
 <a href="javascript:toggleBibtex('LaRosa2021')">[BibTeX]</a>
