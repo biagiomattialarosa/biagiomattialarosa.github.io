@@ -27,6 +27,7 @@ comments: false
   primaryClass={cs.LG}
 }
 </pre>
+</div>
 
 - **Memory Wrap: a Data-Efficient and Interpretable Extension to Image Classification Models**.
 <br>Biagio La Rosa, Roberto Capobianco and Daniele Nardi.
