@@ -23,6 +23,7 @@ comments: false
   year      = {2021},
   url       = {https://arxiv.org/abs/2109.07804},
 }
+</pre>
 
 - **Memory Wrap: a Data-Efficient and Interpretable Extension to Image Classification Models**.
 <br>Biagio La Rosa, Roberto Capobianco and Daniele Nardi.
