@@ -12,7 +12,7 @@ comments: false
 <br>Sayo M. Makinwa, Biagio La Rosa, Roberto Capobianco.
 <br>
 <a href="javascript:toggleBibtex('Makinwa2021')">[BibTeX]</a>
-<a href="https://arxiv.org/abs/2106.01440">[PDF]</a>
+<a href="https://arxiv.org/abs/2109.07804">[PDF]</a>
 <!--<a href="https://github.com/KRLGroup/memory-wrap/" target="_blank">[Code]</a>-->
 <!-- <a href="https://krlgroup.github.io//explainable_inference" target="_blank">[Blog Post]</a>. -->
 <div id="bib_Makinwa2021" class="bibtex noshow">
