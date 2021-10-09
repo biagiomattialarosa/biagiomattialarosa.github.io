@@ -6,6 +6,10 @@ tags: [news]
 modified: 24-7-2021
 comments: false
 ---
+-  **07/10/2021** I'm happy to share that I have two papers accepted at AIxIA 2021!!! 
+ "Detection Accuracy for Evaluating Compositional Explanations of Units"
+  by Sayo M. Makinwa, Biagio La Rosa and Roberto Capobianco for which the pre-print is already available <a href="http://arxiv.org/abs/2109.07804">here</a>; and a discussion paper titled 
+  "A Discussion about Explainable Inference on Sequential Data via Memory-Tracking" by Biagio La Rosa, Roberto Capobianco, and Daniele Nardi about our IJCAI paper of the last year. The link will be available online as soon as possible.'
 - **17/09/2021** Available the pre-print on ArXiv of our next paper *Detection Accuracy for Evaluating Compositional Explanations of Units* <a href="http://arxiv.org/abs/2109.07804">here</a>
 - **23/07/2021** 
   - I'm glad to announce that our workshop <a href="https://xai4debugging.github.io/">*eXplainable AI approaches for debugging and diagnosis.*</a> has been accepted at NeurIPS 2021!! 
