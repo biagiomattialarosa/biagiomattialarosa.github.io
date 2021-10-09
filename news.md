@@ -6,7 +6,8 @@ tags: [news]
 modified: 24-7-2021
 comments: false
 ---
--  **07/10/2021** I'm happy to share that I have two papers accepted at AIxIA 2021!!! 
+-  **07/10/2021** 
+  - I'm happy to share that I have two papers accepted at AIxIA 2021!!! 
  "Detection Accuracy for Evaluating Compositional Explanations of Units"
   by Sayo M. Makinwa, Biagio La Rosa and Roberto Capobianco for which the pre-print is already available <a href="http://arxiv.org/abs/2109.07804">here</a>; and a discussion paper titled 
   "A Discussion about Explainable Inference on Sequential Data via Memory-Tracking" by Biagio La Rosa, Roberto Capobianco, and Daniele Nardi about our IJCAI paper of the last year. The link will be available online as soon as possible.'
