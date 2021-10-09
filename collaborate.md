@@ -17,9 +17,9 @@ Specifically, my recent works are closely related to the following domains:
 - Explanation by Example and Counterfactuals 
 - Concept-based explanations
 
-I would also very happy to work, deepening my knowledge on them, on:
-- Explainable Reinforcement Learning.
-
-If you want to collaborate with me and you are a graduate student or a phd student,
+If you want to collaborate with me or do you want to be supervised by me,
  please send me an email with the subject **[collaboration]**, indicating your advisor/laboratory. Usually, my response time is less than 1 day.
-
+ I have many projects available on several XAI topics other than the topics listed above, like:
+- Explainable Reinforcement Learning.
+- XAI methods to improve the training process 
+- Intepretable latent spaces
