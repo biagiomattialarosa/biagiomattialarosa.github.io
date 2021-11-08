@@ -55,8 +55,8 @@ comments: false
 <br>Biagio La Rosa, Roberto Capobianco and Daniele Nardi.
 <br> <em>AIxIA 2021 Discussion Papers</em>
 <br>
-<a href="javascript:toggleBibtex('LaRosa2020')">[BibTeX]</a>
-<a href="https://www.ijcai.org/Proceedings/2020/0278.pdf">[PDF]</a>
+<!--<a href="javascript:toggleBibtex('LaRosa2020')">[BibTeX]</a>-->
+<!--<a href="https://www.ijcai.org/Proceedings/2020/0278.pdf">[PDF]</a>-->
 <a href="https://github.com/KRLGroup/explainable-inference-on-sequential-data-via-memory-tracking/" target="_blank">[Code]</a>
 <a href="https://krlgroup.github.io//explainable_inference" target="_blank">[Blog Post]</a>.
 <div id="bib_LaRosa2020" class="bibtex noshow">
