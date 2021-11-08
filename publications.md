@@ -31,7 +31,8 @@ comments: false
 ### 2021
 - **Detection Accuracy for Evaluating Compositional Explanations of Units**
 <br>Sayo M. Makinwa, Biagio La Rosa, Roberto Capobianco.
-<br> AIxIA 2021
+<br> <em>AIxIA 2021</em>
+<br>
 <a href="javascript:toggleBibtex('Makinwa2021')">[BibTeX]</a>
 <a href="https://arxiv.org/abs/2109.07804">[PDF]</a>
 <!--<a href="https://github.com/KRLGroup/memory-wrap/" target="_blank">[Code]</a>-->
