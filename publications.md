@@ -59,7 +59,7 @@ comments: false
 <!--<a href="https://www.ijcai.org/Proceedings/2020/0278.pdf">[PDF]</a>-->
 <a href="https://github.com/KRLGroup/explainable-inference-on-sequential-data-via-memory-tracking/" target="_blank">[Code]</a>
 <a href="https://krlgroup.github.io//explainable_inference" target="_blank">[Blog Post]</a>.
-<div id="bib_LaRosa2020" class="bibtex noshow">
+<!--<div id="bib_LaRosa2020" class="bibtex noshow">-->
 <pre>
 <!--@inproceedings{LaRosa20,
   title     = {Explainable Inference on Sequential Data via Memory-Tracking},
