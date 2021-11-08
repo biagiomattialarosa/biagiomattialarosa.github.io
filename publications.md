@@ -61,7 +61,7 @@ comments: false
 <a href="https://krlgroup.github.io//explainable_inference" target="_blank">[Blog Post]</a>.
 <div id="bib_LaRosa2020" class="bibtex noshow">
 <pre>
-@inproceedings{LaRosa20,
+<!--@inproceedings{LaRosa20,
   title     = {Explainable Inference on Sequential Data via Memory-Tracking},
   author    = {La Rosa, Biagio and Capobianco, Roberto and Nardi, Daniele},
   booktitle = {Proceedings of the Twenty-Ninth International Joint Conference on
@@ -72,7 +72,7 @@ comments: false
   month     = {7},
   doi       = {10.24963/ijcai.2020/278},
   url       = {https://doi.org/10.24963/ijcai.2020/278},
-}
+}-->
 
 </pre>
 </div>
