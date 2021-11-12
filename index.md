@@ -7,6 +7,8 @@ image:
   feature: 
 ---
 
+
+
 I am a PhD student under the supervision of <a href="http://robertocapobianco.com/">Prof. Roberto Capobianco</a> in <a href="http://labrococo.dis.uniroma1.it/">Ro.Co.Co. Lab</a> at <a href="https://www.dis.uniroma1.it/en">Department of Computer, Control, and Management Engineering "Antonio Ruberti"</a> of <a href="https://www.uniroma1.it/">Sapienza University</a>. Currently, I am a member of <a href="https://krlgroup.github.io/"> Knowledge, Reasoning and Learning research group </a>.
 
 I am a continuous learner looking for new concepts, also from domains and fields different from mine - psychology, astronomy and neuroscience. 
