@@ -16,9 +16,9 @@ comments: false
 <a href="https://arxiv.org/abs/2106.01440">[PDF]</a>
 <a href="https://github.com/KRLGroup/memory-wrap/" target="_blank">[Code]</a>
 <!-- <a href="https://krlgroup.github.io//explainable_inference" target="_blank">[Blog Post]</a>. -->
-<div id="bib_LaRosa2021" class="bibtex noshow">
+<div id="bib_LaRosa2022" class="bibtex noshow">
 <pre>
-@inproceedings{LaRosa22,
+@inproceedings{LaRosa2022,
   title     = {Memory Wrap: a Data-Efficient and Interpretable Extension to Image Classification Models},
   author    = {La Rosa, Biagio and Capobianco, Roberto and Nardi, Daniele},
   year      = {2021},
@@ -39,7 +39,7 @@ comments: false
 <!-- <a href="https://krlgroup.github.io//explainable_inference" target="_blank">[Blog Post]</a>. -->
 <div id="bib_Makinwa2021" class="bibtex noshow">
 <pre>
-@inproceedings{Makinwa,
+@inproceedings{Makinwa2021,
   title     = {Detection Accuracy for Evaluating Compositional Explanations of Units},
   author    = {Makinwa, Sayo M. and La Rosa, Biagio and Capobianco, Roberto},
   year      = {2021},
@@ -61,7 +61,7 @@ comments: false
 <a href="https://krlgroup.github.io//explainable_inference" target="_blank">[Blog Post]</a>.
 <div id="bib_LaRosa21" class="bibtex noshow">
 <pre>
-@inproceedings{LaRosa21,
+@inproceedings{LaRosa2021,
   title     = {A Discussion about Explainable Inference on Sequential Data via Memory-Tracking},
   author    = {La Rosa, Biagio and Capobianco, Roberto and Nardi, Daniele},
   booktitle = {AIxIA 2021 Discussion Papers},
