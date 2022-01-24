@@ -12,13 +12,13 @@ comments: false
 - **Memory Wrap: a Data-Efficient and Interpretable Extension to Image Classification Models**.
 <br>Biagio La Rosa, Roberto Capobianco and Daniele Nardi.
 <br>
-<a href="javascript:toggleBibtex('LaRosa2021')">[BibTeX]</a>
+<a href="javascript:toggleBibtex('LaRosa2022')">[BibTeX]</a>
 <a href="https://arxiv.org/abs/2106.01440">[PDF]</a>
 <a href="https://github.com/KRLGroup/memory-wrap/" target="_blank">[Code]</a>
 <!-- <a href="https://krlgroup.github.io//explainable_inference" target="_blank">[Blog Post]</a>. -->
 <div id="bib_LaRosa2021" class="bibtex noshow">
 <pre>
-@inproceedings{LaRosa20,
+@inproceedings{LaRosa22,
   title     = {Memory Wrap: a Data-Efficient and Interpretable Extension to Image Classification Models},
   author    = {La Rosa, Biagio and Capobianco, Roberto and Nardi, Daniele},
   year      = {2021},
@@ -55,11 +55,11 @@ comments: false
 <br>Biagio La Rosa, Roberto Capobianco and Daniele Nardi.
 <br> <em>AIxIA 2021 Discussion Papers</em>
 <br>
-<a href="javascript:toggleBibtex('LaRosa2021')">[BibTeX]</a>
+<a href="javascript:toggleBibtex('LaRosa21')">[BibTeX]</a>
 <a href="http://ceur-ws.org/Vol-3078/paper-24.pdf">[PDF]</a>
 <a href="https://github.com/KRLGroup/explainable-inference-on-sequential-data-via-memory-tracking/" target="_blank">[Code]</a>
 <a href="https://krlgroup.github.io//explainable_inference" target="_blank">[Blog Post]</a>.
-<div id="bib_LaRosa2021" class="bibtex noshow">
+<div id="bib_LaRosa21" class="bibtex noshow">
 <pre>
 @inproceedings{LaRosa21,
   title     = {A Discussion about Explainable Inference on Sequential Data via Memory-Tracking},
