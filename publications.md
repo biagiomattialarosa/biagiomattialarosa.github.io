@@ -51,31 +51,29 @@ comments: false
 </pre>
 </div>
 
-- **Explainable Inference on Sequential Data via Memory-Tracking (Discussion Paper)**.
+- **A Discussion about Explainable Inference on Sequential Data via Memory-Tracking**.
 <br>Biagio La Rosa, Roberto Capobianco and Daniele Nardi.
 <br> <em>AIxIA 2021 Discussion Papers</em>
 <br>
-<!--<a href="javascript:toggleBibtex('LaRosa2020')">[BibTeX]</a>-->
-<!--<a href="https://www.ijcai.org/Proceedings/2020/0278.pdf">[PDF]</a>-->
+<a href="javascript:toggleBibtex('LaRosa2021')">[BibTeX]</a>
+<a href="http://ceur-ws.org/Vol-3078/paper-24.pdf">[PDF]</a>
 <a href="https://github.com/KRLGroup/explainable-inference-on-sequential-data-via-memory-tracking/" target="_blank">[Code]</a>
 <a href="https://krlgroup.github.io//explainable_inference" target="_blank">[Blog Post]</a>.
-<!--<div id="bib_LaRosa2020" class="bibtex noshow">-->
+<div id="bib_LaRosa2021" class="bibtex noshow">
 <pre>
-<!--@inproceedings{LaRosa20,
-  title     = {Explainable Inference on Sequential Data via Memory-Tracking},
+@inproceedings{LaRosa21,
+  title     = {A Discussion about Explainable Inference on Sequential Data via Memory-Tracking},
   author    = {La Rosa, Biagio and Capobianco, Roberto and Nardi, Daniele},
-  booktitle = {Proceedings of the Twenty-Ninth International Joint Conference on
-               Artificial Intelligence, {IJCAI-20}},
-  publisher = {International Joint Conferences on Artificial Intelligence Organization},             
-  pages     = {2006--2013},
-  year      = {2020},
-  month     = {7},
-  doi       = {10.24963/ijcai.2020/278},
-  url       = {https://doi.org/10.24963/ijcai.2020/278},
-}-->
+  booktitle = {AIxIA 2021 Discussion Papers},
+  publisher = {CEUR Workshop Proceedings},             
+  volume     = {3078},
+  pages     = {33-44},
+  year      = {2021},
+  url       = {http://ceur-ws.org/Vol-3078/paper-24.pdf},
+}
 
 </pre>
-<!-- </div> -->
+</div>
 
 ### 2020
 - **"Explainable Inference on Sequential Data via Memory-Tracking"**.
