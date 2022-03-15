@@ -7,9 +7,7 @@ modified: 8-7-2014
 comments: false
 ---
 
-
-I'm broadly interested in eXplainable Artificial Intelligence. Currently I work on the development of methodologies to improve the interpretability of deep learning approaches.
-My latest works focus on using internals of deep models to build explanations. This can be done exploiting the already existent internals (e.g., <a href="https://www.ijcai.org/Proceedings/2020/0278.pdf">Paper DNC</a> or <a href="https://arxiv.org/pdf/2109.07804.pdf">Paper Compositional</a>) or adding new elements embedded directly inside the architecture of deep neural networks, enriching them with elements usefull for explainaibility purpose (e.g., <a href="https://arxiv.org/pdf/2106.01440.pdf">Memory Wrap</a>).<br>
+I’m broadly interested in eXplainable Artificial Intelligence. Currently I work on the development of methodologies to improve the interpretability of deep learning approaches. My latest works focus on using the internals of deep models to build explanations. This can be done by exploiting the already existent internals (e.g., <a href="https://www.ijcai.org/Proceedings/2020/0278.pdf">Paper DNC</a> or <a href="https://arxiv.org/pdf/2109.07804.pdf">Paper Compositional</a>) or adding new elements embedded directly inside the architecture of deep neural networks, enriching them with elements useful for explainability purposes (e.g., <a href="https://arxiv.org/pdf/2106.01440.pdf">Memory Wrap</a>).<br>
 
 Specifically, my recent works are closely related to the following topics:
 - Memory-Augmented Neural Networks.
