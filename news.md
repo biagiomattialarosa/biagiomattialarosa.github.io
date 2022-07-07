@@ -6,6 +6,9 @@ tags: [news]
 modified: 14-12-2021
 comments: false
 ---
+
+- **04/03/22** 
+  - Presented my research work and an overview of the XAI field as a seminar for the course Seminars in AI at DIAG@Sapienza
 - **14/12/21** 
   - Successfully moderated the XAI4Debugging workshop at the NeurIPS2021 conference. Thank you to all the participants, authors and co-organizers!
 - **02/12/21** 
