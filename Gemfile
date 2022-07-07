@@ -10,5 +10,5 @@ gem 'jekyll-seo-tag'
 gem "addressable", ">= 2.8.0"
 gem "redcarpet", ">= 3.5.1"
 "dependencies": {
-  "grunt": ">=1.3.0"
+  "grunt": ">=1.5.3"
 }
