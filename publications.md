@@ -9,11 +9,12 @@ comments: false
 
 ### Pre-prints
 
-- **Memory Wrap: a Data-Efficient and Interpretable Extension to Image Classification Models**.
+- **A self-interpretable module for deep image classification on small data**.
 <br>Biagio La Rosa, Roberto Capobianco and Daniele Nardi.
 <br>
 <a href="javascript:toggleBibtex('LaRosa2022')">[BibTeX]</a>
 <a href="https://arxiv.org/abs/2106.01440">[PDF]</a>
+<a href="https://arxiv.org/abs/2106.01440">[ArXiv]</a>
 <a href="https://github.com/KRLGroup/memory-wrap/" target="_blank">[Code]</a>
 <!-- <a href="https://krlgroup.github.io//explainable_inference" target="_blank">[Blog Post]</a>. -->
 <div id="bib_LaRosa2022" class="bibtex noshow">
@@ -34,19 +35,20 @@ comments: false
 <br> <em>AIxIA 2021</em>
 <br>
 <a href="javascript:toggleBibtex('Makinwa2021')">[BibTeX]</a>
-<a href="https://arxiv.org/abs/2109.07804">[PDF]</a>
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-08421-8_38">[PDF]</a>
+<a href="https://arxiv.org/abs/2109.07804">[ArXiv]</a>
 <!--<a href="https://github.com/KRLGroup/memory-wrap/" target="_blank">[Code]</a>-->
 <!-- <a href="https://krlgroup.github.io//explainable_inference" target="_blank">[Blog Post]</a>. -->
 <div id="bib_Makinwa2021" class="bibtex noshow">
 <pre>
-@inproceedings{Makinwa2021,
-  title     = {Detection Accuracy for Evaluating Compositional Explanations of Units},
-  author    = {Makinwa, Sayo M. and La Rosa, Biagio and Capobianco, Roberto},
-  year      = {2021},
-  url       = {https://arxiv.org/abs/2109.07804},
-  eprint={2109.07804},
-  archivePrefix={arXiv},
-  primaryClass={cs.LG}
+@InCollection{Makinwa2022,
+  author    = {Sayo M. Makinwa and Biagio La Rosa and Roberto Capobianco},
+  booktitle = {{AIxIA} 2021 {\textendash} Advances in Artificial Intelligence},
+  publisher = {Springer International Publishing},
+  title     = {Detection Accuracy for~Evaluating Compositional Explanations of~Units},
+  year      = {2022},
+  pages     = {550--563},
+  doi       = {10.1007/978-3-031-08421-8_38},
 }
 </pre>
 </div>
