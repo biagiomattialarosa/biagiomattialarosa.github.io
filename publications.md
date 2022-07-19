@@ -37,8 +37,7 @@ comments: false
 <a href="javascript:toggleBibtex('Makinwa2021')">[BibTeX]</a>
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-08421-8_38">[PDF]</a>
 <a href="https://arxiv.org/abs/2109.07804">[ArXiv]</a>
-<!--<a href="https://github.com/KRLGroup/memory-wrap/" target="_blank">[Code]</a>-->
-<!-- <a href="https://krlgroup.github.io//explainable_inference" target="_blank">[Blog Post]</a>. -->
+<a href="hhttps://github.com/KRLGroup/detacc-compexp" target="_blank">[Code]</a>
 <div id="bib_Makinwa2021" class="bibtex noshow">
 <pre>
 @InCollection{Makinwa2022,
