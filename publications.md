@@ -42,7 +42,7 @@ comments: false
 <pre>
 @InCollection{Makinwa2022,
   author    = {Sayo M. Makinwa and Biagio La Rosa and Roberto Capobianco},
-  booktitle = {{AIxIA 2021} - Advances in Artificial Intelligence},
+  booktitle = {AIxIA 2021 - Advances in Artificial Intelligence},
   publisher = {Springer International Publishing},
   title     = {Detection Accuracy for~Evaluating Compositional Explanations of~Units},
   year      = {2022},
