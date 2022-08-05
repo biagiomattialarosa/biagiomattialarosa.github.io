@@ -6,6 +6,8 @@ tags: [news]
 modified: 14-12-2021
 comments: false
 ---
+- **05/05/22** 
+  - I'm happy to announce that our paper "A self-interpretable module for deep image classification on small data" has been published today in the Applied Intelligence Journal (https://rdcu.be/cS4P5). Joint work with prof. Capobianco and prof. Nardi
 
 - **04/03/22** 
   - Presented my research work and an overview of the XAI field as a seminar for the course Seminars in AI at DIAG@Sapienza

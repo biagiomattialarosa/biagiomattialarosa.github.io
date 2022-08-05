@@ -7,23 +7,26 @@ modified: 8-7-2014
 comments: false
 ---
 
-### Pre-prints
+### 2022
 
 - **A self-interpretable module for deep image classification on small data**.
 <br>Biagio La Rosa, Roberto Capobianco and Daniele Nardi.
 <br>
 <a href="javascript:toggleBibtex('LaRosa2022')">[BibTeX]</a>
-<a href="https://arxiv.org/abs/2106.01440">[PDF]</a>
+<a href="https://link.springer.com/epdf/10.1007/s10489-022-03886-6?sharing_token=IbnCBpQpy2y8PL3Xg10Vvfe4RwlQNchNByi7wbcMAY4Me8Zu3105HXl_XR2RAkkAvNFDIhoith_EY8W71XD2POKCPziEd89auTyF6H1l5Qsy-717BfquEzEKSfda5E8chg_MF9jtfUR0W9iX6ytCPT89G9rOqK1nzU1WNW2jRq0=">[PDF Journal]</a>
 <a href="https://arxiv.org/abs/2106.01440">[ArXiv]</a>
 <a href="https://github.com/KRLGroup/memory-wrap/" target="_blank">[Code]</a>
 <!-- <a href="https://krlgroup.github.io//explainable_inference" target="_blank">[Blog Post]</a>. -->
 <div id="bib_LaRosa2022" class="bibtex noshow">
 <pre>
-@inproceedings{LaRosa2022,
-  title     = {Memory Wrap: a Data-Efficient and Interpretable Extension to Image Classification Models},
-  author    = {La Rosa, Biagio and Capobianco, Roberto and Nardi, Daniele},
-  year      = {2021},
-  url       = {https://arxiv.org/abs/2106.01440},
+@Article{Rosa2022,
+  author    = {Biagio La Rosa and Roberto Capobianco and Daniele Nardi},
+  journal   = {Applied Intelligence},
+  title     = {A self-interpretable module for deep image classification on small data},
+  year      = {2022},
+  month     = {aug},
+  doi       = {10.1007/s10489-022-03886-6},
+  publisher = {Springer Science and Business Media {LLC}},
 }
 
 </pre>
