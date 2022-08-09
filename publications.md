@@ -19,7 +19,7 @@ comments: false
 <!-- <a href="https://krlgroup.github.io//explainable_inference" target="_blank">[Blog Post]</a>. -->
 <div id="bib_LaRosa2022" class="bibtex noshow">
 <pre>
-@Article{Rosa2022,
+@Article{LaRosa2022,
   author    = {Biagio La Rosa and Roberto Capobianco and Daniele Nardi},
   journal   = {Applied Intelligence},
   title     = {A self-interpretable module for deep image classification on small data},
