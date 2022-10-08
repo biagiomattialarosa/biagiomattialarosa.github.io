@@ -6,7 +6,8 @@ tags: [news]
 modified: 14-12-2021
 comments: false
 ---
-
+- **27 Aug 22**
+  - I'm glad to announce that today I'm moving to the University of California of Santa Cruz as visitor scholar for 6 months and I will be supervised by prof. Leilani Gilpin
 - **05 May 22** 
   - I'm happy to announce that our paper "A self-interpretable module for deep image classification on small data" has been published today in the Applied Intelligence Journal (https://rdcu.be/cS4P5). Joint work with prof. Capobianco and prof. Nardi
 
