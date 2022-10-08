@@ -13,6 +13,9 @@ comments: false
 - **The State of The Art of Visual Analytics for eXplainable Deep Learning** 
   <br>Biagio La Rosa, Graziano Blasilli, Romain Bourqui, David Auber, Giuseppe Santucci, Roberto Capobianco, Enrico Bertini, Romain Giot, and Marco Angelini
 
+- **Prototype-based Interpretable Graph Neural Networks**
+  <br> Alessio Ragno, Biagio La Rosa, and Roberto Capobianco
+
 ### 2022
 
 - **A self-interpretable module for deep image classification on small data**.
