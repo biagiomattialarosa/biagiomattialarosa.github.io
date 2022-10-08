@@ -10,7 +10,7 @@ image:
 
 I am a PhD student under the supervision of <a href="http://robertocapobianco.com/">Prof. Roberto Capobianco</a> in <a href="http://labrococo.dis.uniroma1.it/">Ro.Co.Co. Lab</a> at <a href="https://www.dis.uniroma1.it/en">Department of Computer, Control, and Management Engineering "Antonio Ruberti"</a> of <a href="https://www.uniroma1.it/">Sapienza University</a>. Currently, I am a member of the <a href="https://krlgroup.github.io/"> Knowledge, Reasoning, and Learning research group </a>.
 
-My area of interest is eXplainable Artificial Intelligence (XAI); in particular, I am most interested in research that explains the behavior of  Deep Neural Networks combining tools from different areas of Machine Learning and Science. I am deeply interested in the connection between memory, learning process, and interpretability from both computational and cognitive perspectives.
+My area of interest is eXplainable Artificial Intelligence (XAI); specifically, I am most interested in research that explains the behavior of  Deep Neural Networks combining tools from different areas of Machine Learning and Science. Most of my research has been devoted to the investigation of intrinsic methods for deep networks, thus researching self-interpretable networks or elements embedded inside the architectures that can be exploited to explain them (e.g., memory, activations, attention).
 ![Image of a black box behavior](../files/images/blackbox.jpg)
 <br>
 <br>

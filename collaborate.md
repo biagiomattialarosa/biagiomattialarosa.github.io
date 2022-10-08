@@ -13,16 +13,16 @@ Specifically, my recent works are closely related to the following topics:
 - Memory-Augmented Neural Networks.
 - Attention mechanisms.
 - Image Classification.
-- Explanation by Example and Counterfactuals 
+- Explanation by Example
+- Counterfactuals 
 - Concept-based explanations
 - Learned Features
 - Feature Attribution
+- Graph Neural Networks
+- Network dissection and similar 
+- Debiasing techniques
 
-Please reach out if you have a cool idea and want to talk to me! I would love to collaborate. I also look forward to mentor students who are interested in research. If you are interested send me an email with the subject **[collaboration]**, including some info about you and your work. Usually, my response time is less than 1 day.
+**Supervision**: I am available for supervision/mentoring or co-supervision of undergrads or recented graduate students (like Master students) on topics related to eXplainable Artificial Intelligence. Both international (remote meetings only) and local students are welcome. There are several available projects, espcially for extensions or applications of <a href="https://rdcu.be/cS4P5">Memory Wrap</a>, but I would be happy to help you with your own idea if you have any.   
+If you are interested send me an email with the subject **[supervision]**, including some info about you and your interest. Usually, my response time is less than 1 day.
 
-I have many projects available on several XAI topics other than the topics listed above, like:
-- Explainable Reinforcement Learning.
-- XAI methods to improve the training process 
-- Intepretable latent spaces
-- Explainable Neural Networks
-- Fairness on Deep Learning
+**Connecting with me**: If you are a researcher working on similar topics and you want to start a collaboration, ask me questions about my papers, or just do conversation, please reach me out on Linkedin. 
