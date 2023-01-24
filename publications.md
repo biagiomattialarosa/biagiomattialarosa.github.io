@@ -20,6 +20,7 @@ Ragno, and Roberto Capobianco
 ### 2022
 - **Prototype-based Interpretable Graph Neural Networks**
   <br> Alessio Ragno, Biagio La Rosa, and Roberto Capobianco
+  <br> <em>IEEE Transactions on Artificial Intelligence Journal</em>
 <br>
 <a href="javascript:toggleBibtex('Ragno2022')">[BibTeX]</a>
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9953541">[PDF Journal]</a>
@@ -42,6 +43,7 @@ Ragno, and Roberto Capobianco
 
 - **A self-interpretable module for deep image classification on small data**.
 <br>Biagio La Rosa, Roberto Capobianco and Daniele Nardi.
+<br> <em>Applied Intelligence Journal</em>
 <br>
 <a href="javascript:toggleBibtex('LaRosa2022')">[BibTeX]</a>
 <a href="https://link.springer.com/epdf/10.1007/s10489-022-03886-6?sharing_token=IbnCBpQpy2y8PL3Xg10Vvfe4RwlQNchNByi7wbcMAY4Me8Zu3105HXl_XR2RAkkAvNFDIhoith_EY8W71XD2POKCPziEd89auTyF6H1l5Qsy-717BfquEzEKSfda5E8chg_MF9jtfUR0W9iX6ytCPT89G9rOqK1nzU1WNW2jRq0=">[PDF Journal]</a>
