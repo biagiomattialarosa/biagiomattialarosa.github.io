@@ -9,14 +9,36 @@ comments: false
 
 
 ### Incoming / Pre-Prints
+- **Explainable AI in Drug Discovery: Self-interpretable Graph Neural Network for molecular property prediction using Concept Whitening** 
+  <br>Michela Proietti1, Alessio Ragno, Biagio La Rosa, Rino
+Ragno, and Roberto Capobianco
 
 - **The State of The Art of Visual Analytics for eXplainable Deep Learning** 
   <br>Biagio La Rosa, Graziano Blasilli, Romain Bourqui, David Auber, Giuseppe Santucci, Roberto Capobianco, Enrico Bertini, Romain Giot, and Marco Angelini
 
-- **Prototype-based Interpretable Graph Neural Networks**
-  <br> Alessio Ragno, Biagio La Rosa, and Roberto Capobianco
 
 ### 2022
+- **Prototype-based Interpretable Graph Neural Networks**
+  <br> Alessio Ragno, Biagio La Rosa, and Roberto Capobianco
+<br>
+<a href="javascript:toggleBibtex('Ragno2022')">[BibTeX]</a>
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9953541">[PDF Journal]</a>
+<a href="https://github.com/KRLGroup/PrototypeGNN" target="_blank">[Code]</a>
+<div id="bib_Ragno2022" class="bibtex noshow">
+<pre>
+@Article{Ragno2022,
+  author={Ragno, Alessio and La Rosa, Biagio and Capobianco, Roberto},
+  journal={IEEE Transactions on Artificial Intelligence}, 
+  title={Prototype-based Interpretable Graph Neural Networks}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-11},
+  doi={10.1109/TAI.2022.3222618}
+}
+
+</pre>
+</div>
 
 - **A self-interpretable module for deep image classification on small data**.
 <br>Biagio La Rosa, Roberto Capobianco and Daniele Nardi.

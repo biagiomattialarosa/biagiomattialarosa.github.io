@@ -6,6 +6,10 @@ tags: [news]
 modified: 14-12-2021
 comments: false
 ---
+- - **10 Jan 23**
+  - I'm glad to share that our paper "The State of The Art of Visual Analytics for eXplainable Deep Learning" has been accepted for publication in the Computer Graphic Forum journal! Links and info coming soon!
+- **17 Nov 22**
+  - I'm glad to share that our paper "Prototype-based Interpretable Graph Neural Networks" has been published in the IEEE Transactions on Artificial Intelligence Journal! You can find info and link on the publication page.
 - **27 Aug 22**
   - I'm glad to announce that today I'm moving to the University of California of Santa Cruz as visitor scholar for 6 months and I will be supervised by prof. Leilani Gilpin
 - **05 May 22** 
