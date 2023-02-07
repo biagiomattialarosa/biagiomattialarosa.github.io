@@ -13,9 +13,35 @@ comments: false
   <br>Michela Proietti1, Alessio Ragno, Biagio La Rosa, Rino
 Ragno, and Roberto Capobianco
 
+### 2023
+
 - **The State of The Art of Visual Analytics for eXplainable Deep Learning** 
   <br>Biagio La Rosa, Graziano Blasilli, Romain Bourqui, David Auber, Giuseppe Santucci, Roberto Capobianco, Enrico Bertini, Romain Giot, and Marco Angelini
+  <br> <em>Computer Graphic Forum Journal</em>
+  <br>
+<a href="javascript:toggleBibtex('LaRosa2023')">[BibTeX]</a>
+<a href="https://onlinelibrary.wiley.com/doi/10.1111/cgf.14733">[PDF Journal]</a>
+<a href="https://aware-diag-sapienza.github.io/VA4XDL" target="_blank">[Interactive]</a>
+<div id="bib_LaRosa2023" class="bibtex noshow">
+<pre>
+@Article{LaRosa2023,
+  author = {La Rosa, B. and Blasilli, G. and Bourqui, R. and Auber, D. and Santucci, G. and Capobianco, R. and Bertini, E. and Giot, R. and Angelini, M.},
+title = {State of the Art of Visual Analytics for eXplainable Deep Learning},
+journal = {Computer Graphics Forum},
+volume = {n/a},
+number = {n/a},
+pages = {},
+keywords = {deep learning, explainable artificial intelligence, interpretability, neural networks, visual analytics, visualization},
+doi = {https://doi.org/10.1111/cgf.14733},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14733},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14733},
 
+}
+
+}
+
+</pre>
+</div>
 
 ### 2022
 - **Prototype-based Interpretable Graph Neural Networks**
