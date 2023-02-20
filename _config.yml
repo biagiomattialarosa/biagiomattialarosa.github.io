@@ -20,7 +20,7 @@ owner:
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: larosabiagio
   linkedin: larosabiagio
-  google_scholar: 
+  google_scholar: qzonkqcAAAAJ
   google_plus: 
   github: biagiomattialarosa
 # Analytics and webmaster tools stuff goes here
@@ -32,6 +32,8 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Home
+    url: /
   - title: News
     url: /news/
   - title: Collaborate
