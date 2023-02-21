@@ -33,7 +33,7 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Home
-    url: /aboutme/
+    url: /
   - title: News
     url: /news/
   - title: Collaborate

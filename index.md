@@ -2,7 +2,7 @@
 layout: home2
 title: About Me
 url: /
-permalink: /aboutme/
+permalink: /
 description: 
 tags: [Biagio La Rosa, AI, XAI, Explainable Artificial Intelligence, Sapienza University]
 image:
