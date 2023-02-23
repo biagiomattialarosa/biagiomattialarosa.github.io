@@ -10,7 +10,7 @@ comments: false
 
 ### Incoming / Pre-Prints
 - **Explainable AI in Drug Discovery: Self-interpretable Graph Neural Network for molecular property prediction using Concept Whitening** 
-  <br>Michela Proietti1, Alessio Ragno, Biagio La Rosa, Rino
+  <br>Michela Proietti, Alessio Ragno, Biagio La Rosa, Rino
 Ragno, and Roberto Capobianco
 
 ### 2023
