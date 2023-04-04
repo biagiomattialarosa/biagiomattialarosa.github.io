@@ -6,6 +6,12 @@ tags: [news]
 modified: 14-12-2021
 comments: false
 ---
+- **31 Mar 23**
+  - Presented my research work and an overview of the XAI field as a seminar for the course Seminars in AI at DIAG@Sapienza
+- **27 Mar 23**
+  - Just came back from my period abroad at UCSC. What a beautiful experience! 
+- **17 Mar 23**
+  - Our paper “Explainable AI in Drug Discovery: Self-interpretable Graph Neural Network for molecular property prediction using Concept Whitening” has been accepted in the Machine Learning Journal! Congratulations for the first accepted paper to Michela Proietti!
 - **6 Feb 23**
   - Proud to be nominated as a top 10% reviewer of <a href="https://aistats.org/aistats2023/reviewers.html">AISTAT2023</a> !!
 - **10 Jan 23**
