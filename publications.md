@@ -24,8 +24,9 @@ Ragno, and Roberto Capobianco
 <a href="https://aware-diag-sapienza.github.io/VA4XDL" target="_blank">[Interactive]</a>
 <div id="bib_LaRosa2023" class="bibtex noshow">
 <pre>
+{% raw %}
 @Article{LaRosa2023,
-  author = {\{La Rosa\}, B. and Blasilli, G. and Bourqui, R. and Auber, D. and Santucci, G. and Capobianco, R. and Bertini, E. and Giot, R. and Angelini, M.},
+  author = {{La Rosa}, B. and Blasilli, G. and Bourqui, R. and Auber, D. and Santucci, G. and Capobianco, R. and Bertini, E. and Giot, R. and Angelini, M.},
 title = {State of the Art of Visual Analytics for eXplainable Deep Learning},
 journal = {Computer Graphics Forum},
 volume = {n/a},
@@ -39,7 +40,7 @@ eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14733},
 }
 
 }
-
+{% endraw %}
 </pre>
 </div>
 
@@ -53,8 +54,9 @@ eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14733},
 <a href="https://github.com/KRLGroup/PrototypeGNN" target="_blank">[Code]</a>
 <div id="bib_Ragno2022" class="bibtex noshow">
 <pre>
+{% raw %}
 @Article{Ragno2022,
-  author={Ragno, Alessio and \{La Rosa\}, Biagio and Capobianco, Roberto},
+  author={Ragno, Alessio and {La Rosa}, Biagio and Capobianco, Roberto},
   journal={IEEE Transactions on Artificial Intelligence}, 
   title={Prototype-based Interpretable Graph Neural Networks}, 
   year={2022},
@@ -63,7 +65,7 @@ eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14733},
   pages={1-11},
   doi={10.1109/TAI.2022.3222618}
 }
-
+{% endraw %}
 </pre>
 </div>
 
@@ -78,8 +80,9 @@ eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14733},
 <!-- <a href="https://krlgroup.github.io//explainable_inference" target="_blank">[Blog Post]</a>. -->
 <div id="bib_LaRosa2022" class="bibtex noshow">
 <pre>
+{% raw %}
 @Article{LaRosa2022,
-  author    = {Biagio \{La Rosa\} and Roberto Capobianco and Daniele Nardi},
+  author    = {Biagio {La Rosa} and Roberto Capobianco and Daniele Nardi},
   journal   = {Applied Intelligence},
   title     = {A self-interpretable module for deep image classification on small data},
   year      = {2022},
@@ -87,7 +90,7 @@ eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14733},
   doi       = {10.1007/s10489-022-03886-6},
   publisher = {Springer Science and Business Media {LLC}},
 }
-
+{% endraw %}
 </pre>
 </div>
 
@@ -102,8 +105,9 @@ eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14733},
 <a href="https://github.com/KRLGroup/detacc-compexp" target="_blank">[Code]</a>
 <div id="bib_Makinwa2021" class="bibtex noshow">
 <pre>
+{% raw %}
 @InCollection{Makinwa2022,
-  author    = {Sayo M. Makinwa and Biagio \{La Rosa\} and Roberto Capobianco},
+  author    = {Sayo M. Makinwa and Biagio {La Rosa} and Roberto Capobianco},
   booktitle = {AIxIA 2021 - Advances in Artificial Intelligence},
   publisher = {Springer International Publishing},
   title     = {Detection Accuracy for~Evaluating Compositional Explanations of~Units},
@@ -111,6 +115,7 @@ eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14733},
   pages     = {550--563},
   doi       = {10.1007/978-3-031-08421-8_38},
 }
+{% endraw %}
 </pre>
 </div>
 
@@ -127,7 +132,7 @@ eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14733},
 {% raw %}
 @inproceedings{LaRosa2021,
   title     = {A Discussion about Explainable Inference on Sequential Data via Memory-Tracking},
-  author    = {La Rosa}, Biagio and Capobianco, Roberto and Nardi, Daniele},
+  author    = {{La Rosa}, Biagio and Capobianco, Roberto and Nardi, Daniele},
   booktitle = {AIxIA 2021 Discussion Papers},
   publisher = {CEUR Workshop Proceedings},             
   volume     = {3078},
@@ -150,9 +155,10 @@ eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14733},
 <a href="https://krlgroup.github.io//explainable_inference" target="_blank">[Blog Post]</a>.
 <div id="bib_LaRosa2020" class="bibtex noshow">
 <pre>
+{% raw %}
 @inproceedings{LaRosa20,
   title     = {Explainable Inference on Sequential Data via Memory-Tracking},
-  author    = {\{La Rosa\}, Biagio and Capobianco, Roberto and Nardi, Daniele},
+  author    = {{La Rosa}, Biagio and Capobianco, Roberto and Nardi, Daniele},
   booktitle = {Proceedings of the Twenty-Ninth International Joint Conference on
                Artificial Intelligence, {IJCAI-20}},
   publisher = {International Joint Conferences on Artificial Intelligence Organization},             
@@ -162,7 +168,7 @@ eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14733},
   doi       = {10.24963/ijcai.2020/278},
   url       = {https://doi.org/10.24963/ijcai.2020/278},
 }
-
+{% endraw %}
 </pre>
 </div>
 
