@@ -124,9 +124,10 @@ eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14733},
 <a href="https://krlgroup.github.io//explainable_inference" target="_blank">[Blog Post]</a>.
 <div id="bib_LaRosa21" class="bibtex noshow">
 <pre>
+{% raw %}
 @inproceedings{LaRosa2021,
   title     = {A Discussion about Explainable Inference on Sequential Data via Memory-Tracking},
-  author    = {{La Rosa}, Biagio and Capobianco, Roberto and Nardi, Daniele},
+  author    = {La Rosa}, Biagio and Capobianco, Roberto and Nardi, Daniele},
   booktitle = {AIxIA 2021 Discussion Papers},
   publisher = {CEUR Workshop Proceedings},             
   volume     = {3078},
@@ -134,7 +135,7 @@ eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14733},
   year      = {2021},
   url       = {http://ceur-ws.org/Vol-3078/paper-24.pdf},
 }
-
+{% endraw %}
 </pre>
 </div>
 
