@@ -126,7 +126,7 @@ eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14733},
 <pre>
 @inproceedings{LaRosa2021,
   title     = {A Discussion about Explainable Inference on Sequential Data via Memory-Tracking},
-  author    = {\{La Rosa\}, Biagio and Capobianco, Roberto and Nardi, Daniele},
+  author    = {{La Rosa}, Biagio and Capobianco, Roberto and Nardi, Daniele},
   booktitle = {AIxIA 2021 Discussion Papers},
   publisher = {CEUR Workshop Proceedings},             
   volume     = {3078},
