@@ -6,6 +6,12 @@ tags: [news]
 modified: 14-12-2021
 comments: false
 ---
+- **22 Sep 23**
+  - I'm glad to announce that our paper "Towards a fuller understanding of neurons with Clustered Compositional Explanations" has been accepted at NeurIPS 2023. See you in New Orleans!
+- **15 Sep 23**
+  - Our workshop "XAI 4 Deep Reinforcement Learning" has been accepted at AAAI24!! Call for papers is coming soon! See you in Vancouver!
+- **01 Sep 23**
+  - I'm going to partecipate to ECAI2023 in Cracow at the end of September! See you there!
 - **31 Mar 23**
   - Presented my research work and an overview of the XAI field as a seminar for the course Seminars in AI at DIAG@Sapienza
 - **27 Mar 23**

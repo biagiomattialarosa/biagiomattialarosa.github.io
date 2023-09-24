@@ -9,6 +9,10 @@ comments: false
 
 
 ### Incoming / Pre-Prints
+- **Towards a fuller understanding of neurons with Clustered Compositional Explanations** 
+  <br>Biagio La Rosa, Leilani Gilpin, and Roberto Capobianco
+  <br> <em>NeurIPS 2023</em>
+
 - **Explainable AI in Drug Discovery: Self-interpretable Graph Neural Network for molecular property prediction using Concept Whitening** 
   <br>Michela Proietti, Alessio Ragno, Biagio La Rosa, Rino
 Ragno, and Roberto Capobianco
