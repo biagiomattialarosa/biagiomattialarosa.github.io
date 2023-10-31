@@ -9,15 +9,21 @@ comments: false
 
 
 ### Incoming / Pre-Prints
+
+### 2023
+
 - **Towards a fuller understanding of neurons with Clustered Compositional Explanations** 
   <br>Biagio La Rosa, Leilani Gilpin, and Roberto Capobianco
-  <br> <em>NeurIPS 2023</em>
+  <br> <em>NeurIPS 2023</em><br>
+<a href="https://arxiv.org/abs/2310.18443">[ArXiv]</a>
+<a href="https://github.com/krlgroup/clustered-compositional-explanations" target="_blank">[Code]</a>
 
 - **Explainable AI in Drug Discovery: Self-interpretable Graph Neural Network for molecular property prediction using Concept Whitening** 
   <br>Michela Proietti, Alessio Ragno, Biagio La Rosa, Rino
 Ragno, and Roberto Capobianco
-
-### 2023
+<br> <em>Machine Learning Journal</em><br>
+<a href="https://link.springer.com/article/10.1007/s10994-023-06369-y?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231031&utm_content=10.1007/s10994-023-06369-y">[PDF Journal]</a>
+<a href="https://github.com/KRLGroup/GraphCWN" target="_blank">[Code]</a>
 
 - **The State of The Art of Visual Analytics for eXplainable Deep Learning** 
   <br>Biagio La Rosa, Graziano Blasilli, Romain Bourqui, David Auber, Giuseppe Santucci, Roberto Capobianco, Enrico Bertini, Romain Giot, and Marco Angelini
