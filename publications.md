@@ -28,7 +28,7 @@ Ragno, and Roberto Capobianco
 - **The State of The Art of Visual Analytics for eXplainable Deep Learning** 
   <br>Biagio La Rosa, Graziano Blasilli, Romain Bourqui, David Auber, Giuseppe Santucci, Roberto Capobianco, Enrico Bertini, Romain Giot, and Marco Angelini
   <br> <em>Computer Graphic Forum Journal</em>
-  <br>
+  <br> <em>Presented also at 25th EG Conference on Visualization (EuroVIS 2023)</em><br> 
 <a href="javascript:toggleBibtex('LaRosa2023')">[BibTeX]</a>
 <a href="https://onlinelibrary.wiley.com/doi/10.1111/cgf.14733">[PDF Journal]</a>
 <a href="https://aware-diag-sapienza.github.io/VA4XDL" target="_blank">[Interactive]</a>
