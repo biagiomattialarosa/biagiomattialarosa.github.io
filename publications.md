@@ -16,7 +16,23 @@ comments: false
   <br>Biagio La Rosa, Leilani Gilpin, and Roberto Capobianco
   <br> <em>NeurIPS 2023</em><br>
 <a href="https://arxiv.org/abs/2310.18443">[ArXiv]</a>
+<a href="https://openreview.net/forum?id=51PLYhMFWz">[OpenReview]</a>
 <a href="https://github.com/krlgroup/clustered-compositional-explanations" target="_blank">[Code]</a>
+<div id="bib_LaRosa2023" class="bibtex noshow">
+<pre>
+{% raw %}
+@inproceedings{
+LaRosa2023Towards,
+title={Towards a fuller understanding of neurons with Clustered Compositional Explanations},
+author={Biagio La Rosa and Leilani H. Gilpin and Roberto Capobianco},
+booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+year={2023},
+url={https://openreview.net/forum?id=51PLYhMFWz}
+}
+{% endraw %}
+</pre>
+</div>
+
 
 - **Explainable AI in Drug Discovery: Self-interpretable Graph Neural Network for molecular property prediction using Concept Whitening** 
   <br>Michela Proietti, Alessio Ragno, Biagio La Rosa, Rino
