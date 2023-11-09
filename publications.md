@@ -15,10 +15,11 @@ comments: false
 - **Towards a fuller understanding of neurons with Clustered Compositional Explanations** 
   <br>Biagio La Rosa, Leilani Gilpin, and Roberto Capobianco
   <br> <em>NeurIPS 2023</em><br>
+<a href="javascript:toggleBibtex('LaRosa2023towards')">[BibTeX]</a>
 <a href="https://arxiv.org/abs/2310.18443">[ArXiv]</a>
 <a href="https://openreview.net/forum?id=51PLYhMFWz">[OpenReview]</a>
 <a href="https://github.com/krlgroup/clustered-compositional-explanations" target="_blank">[Code]</a>
-<div id="bib_LaRosa2023" class="bibtex noshow">
+<div id="bib_LaRosa2023towards" class="bibtex noshow">
 <pre>
 {% raw %}
 @inproceedings{
@@ -38,9 +39,24 @@ url={https://openreview.net/forum?id=51PLYhMFWz}
   <br>Michela Proietti, Alessio Ragno, Biagio La Rosa, Rino
 Ragno, and Roberto Capobianco
 <br> <em>Machine Learning Journal</em><br>
+<a href="javascript:toggleBibtex('Proietti2023')">[BibTeX]</a>
 <a href="https://link.springer.com/article/10.1007/s10994-023-06369-y?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231031&utm_content=10.1007/s10994-023-06369-y">[PDF Journal]</a>
 <a href="https://github.com/KRLGroup/GraphCWN" target="_blank">[Code]</a>
-
+<div id="bib_Proietti2023" class="bibtex noshow">
+<pre>
+{% raw %}
+@Article{Proietti2023,
+  author    = {Michela Proietti and Alessio Ragno and Biagio La Rosa and Rino Ragno and Roberto Capobianco},
+  journal   = {Machine Learning},
+  title     = {Explainable {AI} in drug discovery: self-interpretable graph neural network for molecular property prediction using concept whitening},
+  year      = {2023},
+  month     = {oct},
+  doi       = {10.1007/s10994-023-06369-y},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+{% endraw %}
+</pre>
+</div>
 - **The State of The Art of Visual Analytics for eXplainable Deep Learning** 
   <br>Biagio La Rosa, Graziano Blasilli, Romain Bourqui, David Auber, Giuseppe Santucci, Roberto Capobianco, Enrico Bertini, Romain Giot, and Marco Angelini
   <br> <em>Computer Graphic Forum Journal</em>
