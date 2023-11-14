@@ -8,33 +8,24 @@ comments: false
 ---
 
 # Active Projects
-This list includes all the current projects where I am involved in and I am available to supervise students for theses or collaborate with them. If you are interested on talking or working on one of them, drop an email including some info about you and your interest. Usually, my response time is less than 1 day.
+This list includes all the open research paths where I am involved in. On these projects we have several extensions available for theses or collaborations, both at local and international level. If you are interested, drop me an email including some info about you and your interests. Usually, my response time is less than 1 day.
 
-## Self-Interpretable Deep Neural Networks
-The project aims at proposing novel interpretable neural networks. This project has studied so far novel ways to exploit deep neural networks based on external memories and prototypes. In the first case, during the inference process, store information in an external memory and use them to compute the prediction. In the latter, the prediction is performed by comparing the representation of a given sample to a set of learned prototypes. Our goal is to develop models that are able to achieve the same (or better) performance of current SOTA models and provide at the same time explanations about their outputs. The project is domain-agnostic and has been tested so far on image classification, text classication and reinforcement learning. Possible future extensions include the application of these network to mitigate the bias, self-supervision, novel domains and further studies on RL.
+### Self-Interpretable Deep Neural Networks
+This research aims at proposing novel self-interpretable neural networks. Self-interpretable means that the network retuns explanations by itself or it is easy to inspects its components to get an hint on its decision process. We are active in developing self-interpretable deep networks based on <a href="https://arxiv.org/abs/2106.01440">memory</a>, <a href="https://link.springer.com/article/10.1007/s10994-023-06369-y?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231031&utm_content=10.1007/s10994-023-06369-y">concepts</a>, or <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9953541">prototypes</a> and applied to several domains like <a href="https://link.springer.com/epdf/10.1007/s10489-022-03886-6?sharing_token=IbnCBpQpy2y8PL3Xg10Vvfe4RwlQNchNByi7wbcMAY4Me8Zu3105HXl_XR2RAkkAvNFDIhoith_EY8W71XD2POKCPziEd89auTyF6H1l5Qsy-717BfquEzEKSfda5E8chg_MF9jtfUR0W9iX6ytCPT89G9rOqK1nzU1WNW2jRq0=">vision</a>, <a href="https://www.ijcai.org/Proceedings/2020/0278.pdf">sequential data</a> and <a href="https://link.springer.com/article/10.1007/s10994-023-06369-y?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231031&utm_content=10.1007/s10994-023-06369-y">chemistry</a>.
+
+Available projects include the application of already developed networks to novel domains and problems (e.g., continual learning or reinforcement learning), the improvements of the design of the current ones, or the development of novel architectures. 
 
 
-## Visual Analytics + Explainable Deep Learning
-Visual analytics systems have been widely used to help domain-experts (e.g., doctors, programmers, lawyers) to understand machine learning models by visualizing several aspects of data and models and letting the user interact and analyze them. Recently, more and more VA systems employ explanations methods to aid users for understanding deep learning models. The goal of the project is to develop a common interface (i.e., library) that can bridge the gap between tools used in Deep learning field (e.g., PyTorch, TensorFlow) and technologies used to build the VA systems (e.g., React, D3.js). 
+### Brining explanations to the users
+Visual Analytics (VA) systems have been widely used to help domain-experts (e.g., doctors, programmers, lawyers) to understand machine learning models by visualizing several aspects of data and models and letting the user interact and analyze them. Recently, more and more VA systems employ explanations methods to aid users for understanding deep learning models. Our research aims at exploring and studying <a href="https://onlinelibrary.wiley.com/doi/10.1111/cgf.14733">how XAI methods can be embedded inside VA systems</a> and increase the awareness of XAI for the VA reseach community and viceversa.
 
-## Extracting Neuron's Knowledge
-The focus of this project is to understand what neurons learn during the training process.
-This is usually done by checking which concepts activate the most the neuron. In this project we are ideally interested on building a precise mapping between a given activation (i.e., the neuron's behavior) and the concepts recognized by the neuron for the given sample. 
+Available projects include the development of a common interface (i.e., library) that can bridge the gap between tools used in Deep learning field (e.g., PyTorch, TensorFlow) and technologies used to build the VA systems (e.g., React, D3.js) or the design of a novel VA system to support and Deep Learning through XAI methods (e.g. LLM like ChatGPT). Most of these projects will be jointly supervised also by Prof. Marco Angelini, who is an expert on VA systems. Students from both VA, XAI, and DL are welcome and it is not needed an expertize in all the topics.
 
-## Topics
-Specifically, my recent works are closely related to the following topics:
-- Memory-Augmented Neural Networks.
-- Prototypes-based Neural Networks
-- Attention mechanisms.
-- Image Classification.
-- Explanation by Example
-- Counterfactuals 
-- Concept-based explanations
-- Learned Features
-- Feature Attribution
-- Graph Neural Networks
-- Network Dissection 
-- Debiasing techniques
+### Understanding Black-box Deep Learning
+This reseach path aims at understanding black box deep learning models (e.g. models already trained like GPT). In particular, we aim at exploiting components of the networks itself (e.g., attention or <a href="https://link.springer.com/chapter/10.1007/978-3-031-08421-8_38">activations</a>) in order to probe the behavior and extract insights about the decision process. For example we can probe neurons' activations to <a href="https://arxiv.org/abs/2310.18443">extract rules</a> that explain their behavior.
+
+Available projects in this direction include the development of novel heuristics for search-based algorithms, the study of optimality of these kind of explanations, the optimization of alternative metrics and the development of novel algorithms that relax current assumption. We are especially interested on exploring the domain of vision and nlp for the task. 
+
 
 # Past Projects
 ## Data-Augmentation for Word Sense Disambiguation
