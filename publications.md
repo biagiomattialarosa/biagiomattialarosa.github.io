@@ -67,21 +67,22 @@ Ragno, and Roberto Capobianco
 <div id="bib_LaRosa2023" class="bibtex noshow">
 <pre>
 {% raw %}
+ 
 @Article{LaRosa2023,
-  author = {{La Rosa}, B. and Blasilli, G. and Bourqui, R. and Auber, D. and Santucci, G. and Capobianco, R. and Bertini, E. and Giot, R. and Angelini, M.},
-title = {State of the Art of Visual Analytics for eXplainable Deep Learning},
-journal = {Computer Graphics Forum},
-volume = {n/a},
-number = {n/a},
-pages = {},
-keywords = {deep learning, explainable artificial intelligence, interpretability, neural networks, visual analytics, visualization},
-doi = {https://doi.org/10.1111/cgf.14733},
-url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14733},
-eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14733},
-
+  author    = {{La Rosa}, B. and Blasilli, G. and Bourqui, R. and Auber, D. and Santucci, G. and Capobianco, R. and Bertini, E. and Giot, R. and Angelini, M.},
+  journal   = {Computer Graphics Forum},
+  title     = {State of the Art of Visual Analytics for eXplainable Deep Learning},
+  year      = {2023},
+  issn      = {1467-8659},
+  month     = feb,
+  number    = {1},
+  pages     = {319--355},
+  volume    = {42},
+  doi       = {10.1111/cgf.14733},
+  publisher = {Wiley},
 }
 
-}
+
 {% endraw %}
 </pre>
 </div>
