@@ -6,10 +6,12 @@ tags: [news]
 modified: 14-12-2021
 comments: false
 ---
+- **27 Nov 23** 
+  - This evening I will give a talk to the "AI, Culture & Society Club"@Postdam University about our paper on the State of the Art of VA for eXplaining Deep Learning
 - **22 Sep 23**
   - I'm glad to announce that our paper "Towards a fuller understanding of neurons with Clustered Compositional Explanations" has been accepted at NeurIPS 2023. See you in New Orleans!
 - **15 Sep 23**
-  - Our workshop "XAI 4 Deep Reinforcement Learning" has been accepted at AAAI24!! Call for papers is coming soon! See you in Vancouver!
+  - Our workshop "<a href="https://xai4drl.github.io/">XAI 4 Deep Reinforcement Learning</a>" has been accepted at AAAI24!! Call for papers is coming soon! See you in Vancouver!
 - **01 Sep 23**
   - I'm going to partecipate to ECAI2023 in Cracow at the end of September! See you there!
 - **31 Mar 23**
