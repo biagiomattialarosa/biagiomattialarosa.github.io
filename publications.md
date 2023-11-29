@@ -25,7 +25,7 @@ comments: false
 @inproceedings{
 LaRosa2023Towards,
 title={Towards a fuller understanding of neurons with Clustered Compositional Explanations},
-author={Biagio La Rosa and Leilani H. Gilpin and Roberto Capobianco},
+author={Biagio {La Rosa} and Leilani H. Gilpin and Roberto Capobianco},
 booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
 year={2023},
 url={https://openreview.net/forum?id=51PLYhMFWz}
@@ -46,7 +46,7 @@ Ragno, and Roberto Capobianco
 <pre>
 {% raw %}
 @Article{Proietti2023,
-  author    = {Michela Proietti and Alessio Ragno and Biagio La Rosa and Rino Ragno and Roberto Capobianco},
+  author    = {Michela Proietti and Alessio Ragno and Biagio {La Rosa} and Rino Ragno and Roberto Capobianco},
   journal   = {Machine Learning},
   title     = {Explainable {AI} in drug discovery: self-interpretable graph neural network for molecular property prediction using concept whitening},
   year      = {2023},
