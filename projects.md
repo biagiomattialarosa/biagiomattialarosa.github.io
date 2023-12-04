@@ -16,7 +16,7 @@ This research aims at proposing novel self-interpretable neural networks. Self-i
 Available projects include the application of already developed networks to novel domains and problems (e.g., continual learning or reinforcement learning), the improvements of the design of the current ones, or the development of novel architectures. 
 
 
-### Brining explanations to the users
+### Bringing explanations to the users
 Visual Analytics (VA) systems have been widely used to help domain-experts (e.g., doctors, programmers, lawyers) to understand machine learning models by visualizing several aspects of data and models and letting the user interact and analyze them. Recently, more and more VA systems employ explanations methods to aid users for understanding deep learning models. Our research aims at exploring and studying <a href="https://onlinelibrary.wiley.com/doi/10.1111/cgf.14733">how XAI methods can be embedded inside VA systems</a> and increase the awareness of XAI for the VA reseach community and viceversa.
 
 Available projects include the development of a common interface (i.e., library) that can bridge the gap between tools used in Deep learning field (e.g., PyTorch, TensorFlow) and technologies used to build the VA systems (e.g., React, D3.js) or the design of a novel VA system to support and Deep Learning through XAI methods (e.g. LLM like ChatGPT). Most of these projects will be jointly supervised also by Prof. Marco Angelini, who is an expert on VA systems. Students from both VA, XAI, and DL are welcome and it is not needed an expertize in all the topics.
