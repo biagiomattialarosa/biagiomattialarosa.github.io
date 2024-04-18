@@ -6,6 +6,14 @@ tags: [news]
 modified: 14-12-2021
 comments: false
 ---
+- **28 Feb 24**
+  - Officially wrapped up my PhD thesis and sent it to the committee!!
+- **26 Feb 24**
+  - Heading to #AAAI2024 in a few hours to host our workshop "<a href="https://xai4drl.github.io/">XAI 4 Deep Reinforcement Learning</a>" on Feb 27th!
+- **12 Dic 23**
+  - Today I am going to present our paper "Towards a fuller understanding of neurons with Clustered Compositional Explanations" at NeurIPS@New Orleans! See you there! Poster #1522
+- **27 Nov 23** 
+  - This evening I will give a talk to the "AI, Culture & Society Club"@Postdam University about our paper on the State of the Art of VA for eXplaining Deep Learning
 - **27 Nov 23** 
   - This evening I will give a talk to the "AI, Culture & Society Club"@Postdam University about our paper on the State of the Art of VA for eXplaining Deep Learning
 - **22 Sep 23**
