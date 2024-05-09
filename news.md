@@ -6,6 +6,12 @@ tags: [news]
 modified: 14-12-2021
 comments: false
 ---
+- **7 May 24**
+  - I'm thrilled to announce the successful completion of my PhD journey with the defense of my dissertation titled "Explaining Deep Neural Networks by Leveraging Intrinsic Methods." 
+- **30 Apr 24**
+  - Today I am going to present my phd thesis in a seminar at DIAG department at 5pm CET
+- **24 Apr 24**
+  - Sucessfully passed my PhD internal defense!
 - **28 Feb 24**
   - Officially wrapped up my PhD thesis and sent it to the committee!!
 - **26 Feb 24**
