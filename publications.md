@@ -16,7 +16,7 @@ comments: false
   <br>Biagio La Rosa, Leilani Gilpin, and Roberto Capobianco
   <br> <em>NeurIPS 2023</em><br>
 <a href="javascript:toggleBibtex('LaRosa2023towards')">[BibTeX]</a>
-<a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/debd0ae2083160397a22a4a8831c7230-Abstract-Conference.html">[PDF NeurIPS]</a>
+<a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/debd0ae2083160397a22a4a8831c7230-Paper-Conference.pdf">[PDF NeurIPS]</a>
 <a href="https://arxiv.org/abs/2310.18443">[ArXiv]</a>
 <a href="https://github.com/krlgroup/clustered-compositional-explanations" target="_blank">[Code]</a>
 <div id="bib_LaRosa2023towards" class="bibtex noshow">
