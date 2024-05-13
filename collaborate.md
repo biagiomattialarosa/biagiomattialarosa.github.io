@@ -1,28 +1,60 @@
 ---
 layout: onlymarkdown
 permalink: /collaborate/
-title: Work Together
+title: Collaborations and Supervision
 tags: [collaborate]
 modified: 8-7-2014
 comments: false
 ---
 
-I’m broadly interested in eXplainable Artificial Intelligence. Currently I work on the development of methodologies to improve the interpretability of deep learning approaches. My latest works focus on using the internals of deep models to build explanations. This can be done by exploiting the already existent internals (e.g., <a href="https://www.ijcai.org/Proceedings/2020/0278.pdf">Paper DNC</a> or <a href="https://arxiv.org/pdf/2109.07804.pdf">Paper Compositional</a>) or adding new elements embedded directly inside the architecture of deep neural networks, enriching them with elements useful for explainability purposes (e.g., <a href="https://arxiv.org/pdf/2106.01440.pdf">Memory Wrap</a>).<br>
+## Collaborations
 
-Specifically, my recent works are closely related to the following topics:
-- Memory-Augmented Neural Networks.
-- Attention mechanisms.
-- Image Classification.
-- Explanation by Example
-- Counterfactuals 
-- Concept-based explanations
-- Learned Features
-- Feature Attribution
-- Graph Neural Networks
-- Network dissection and similar 
-- Debiasing techniques
+During my academic journey I was lucky to be involved in many collaborations with different research groups and amazing students and collaborators. I deeply believe that research is a community effort where the union and sharing of knowledge is more powerful than individualities.
 
-**Supervision**: I am available for supervision/mentoring or co-supervision of undergrads or recented graduate students (like Master students) on topics related to eXplainable Artificial Intelligence. Both international (remote meetings only) and local students are welcome. There are several available projects, espcially for extensions or applications of <a href="https://rdcu.be/cS4P5">Memory Wrap</a>, but I would be happy to help you with your own idea if you have any.   
-If you are interested send me an email with the subject **[supervision]**, including some info about you and your interest. Usually, my response time is less than 1 day.
+I am open to any collaboration with professors and postdoctoral researchers as long as there is a mutual interest on the topic and our principles are aligned. Bonus point if you are located in the **Bay Area**! Interdisciplinary collaborations are more than welcome (bonus point for people from neuroscience!)!
 
-**Connecting with me**: If you are a researcher working on similar topics and you want to start a collaboration, ask me questions about my papers, or just do conversation, please reach me out on Linkedin. 
+If you are interested, please contact me me via email or LinkedIn.
+
+
+
+## Supervision
+I am available for supervision/mentoring or co-supervision of students on topics related to eXplainable Artificial Intelligence. Both international (remote meetings only) and local students are welcome. I am open to students at any level (undergrads, masters, phds) as long as they are have the expected knowledge from a student of their level before joining the project.
+
+There are several available projects, but I would be happy to help you with your own idea if you have any. Below you can find a list of topics (and related papers) on which I have ideas and projects. 
+
+If you are interested on my supervision, please send me an email with the subject **[supervision]**, including some info about you and your interests. If you are interested in one of the topic listed below, please read the related papers and think about possible extensions. Usually, my response time is less than 1 day.
+
+#### Topics
+You can check the projects available at <a href="https://aiea-lab.github.io/">AIEA Lab</a>.
+<br><br> Additionally, I am interested in the following topics:
+- Explaining Deep Learning through Memory Tracking
+    - <a href="https://www.ijcai.org/Proceedings/2020/0278.pdf">[Paper 1]</a>
+    - <a href="https://link.springer.com/epdf/10.1007/s10489-022-03886-6?sharing_token=IbnCBpQpy2y8PL3Xg10Vvfe4RwlQNchNByi7wbcMAY4Me8Zu3105HXl_XR2RAkkAvNFDIhoith_EY8W71XD2POKCPziEd89auTyF6H1l5Qsy-717BfquEzEKSfda5E8chg_MF9jtfUR0W9iX6ytCPT89G9rOqK1nzU1WNW2jRq0=">[Paper 2]</a>
+- Explaining Reinforcement Learning
+    - <a href="https://arxiv.org/abs/2302.12232">[Paper 1]</a>
+    - <a href="https://openreview.net/forum?id=hWwY_Jq0xsN">[Paper 2]</a>
+    - <a href="https://arxiv.org/abs/2401.05821">[Paper 3]</a>
+- Mechanistic Interpretability
+    - <a href="https://distill.pub/2020/circuits/zoom-in/">[Paper 1]</a>
+    - <a href="https://arxiv.org/pdf/2211.00593">[Paper 2]</a>
+    - <a href="https://arxiv.org/pdf/2311.03658">[Paper 3]</a>
+- Understanding Neurons Behavior in Deep Learning
+    - <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/debd0ae2083160397a22a4a8831c7230-Paper-Conference.pdf">[Paper 1]</a>
+    - <a href="https://arxiv.org/abs/2204.10965">[Paper 2]</a>
+    - <a href="https://arxiv.org/abs/1704.05796">[Paper 3]</a>
+- Prototype-based Neural Networks
+    - <a href="https://arxiv.org/abs/1806.10574">[Paper 1]</a>
+    - <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Nauta_PIP-Net_Patch-Based_Intuitive_Prototypes_for_Interpretable_Image_Classification_CVPR_2023_paper.pdf">[Paper 2]</a>
+    - <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9953541">[Paper 3]</a>
+- Concept-based Neural Networks
+    - <a href="https://arxiv.org/abs/2007.04612">[Paper 1]</a>
+    - <a href="https://arxiv.org/abs/2209.09056">[Paper 2]</a>
+    - <a href="https://arxiv.org/abs/2401.14142">[Paper 3]</a>
+- Quantitative Evaluation of Explanations
+    - <a href="https://arxiv.org/abs/1810.03292">[Paper 1]</a>
+    - <a href="https://arxiv.org/pdf/2201.08164">[Paper 2]</a>
+- Visual Analytics for Explainable AI
+    - <a href="https://onlinelibrary.wiley.com/doi/10.1111/cgf.14733">[Paper 1]</a>
+
+
+
