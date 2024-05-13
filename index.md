@@ -18,5 +18,5 @@ My area of interest is eXplainable Artificial Intelligence (XAI); specifically, 
 <br>
 <br>
 
-I got my PhD in Computer Engineering at<a href="https://www.uniroma1.it/">Sapienza University of Rome</a> under the amazing supervision of <a href="http://robertocapobianco.com/">Prof. Roberto Capobianco</a>. I also got a M. Sc. degree in "Artificial Intelligence and Robotics" and a B. Sc. in "Computer Science" under the supervision of <a href="http://wwwusers.di.uniroma1.it/~navigli/"> Prof. Roberto Navigli</a>, both from Sapienza University.<br>
+I got my PhD in Computer Engineering at <a href="https://www.uniroma1.it/">Sapienza University of Rome</a>, where I studied intrinsic methods per explaining deep neural networks under the amazing supervision of <a href="http://robertocapobianco.com/">Prof. Roberto Capobianco</a>. I also got a M. Sc. degree in "Artificial Intelligence and Robotics" and a B. Sc. in "Computer Science" under the supervision of <a href="http://wwwusers.di.uniroma1.it/~navigli/"> Prof. Roberto Navigli</a>, both from Sapienza University.<br>
 
