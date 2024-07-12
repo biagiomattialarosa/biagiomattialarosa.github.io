@@ -9,7 +9,7 @@ comments: false
 - **8 Jul 24**
   - Officially started my position as postdoctoral researcher at UCSC!
 - **24-27 Jun 24**
-  - Attended the 
+  - I'm going to attend the "Understanding Higher-Level Intelligence from AI, Psychology, and Neuroscience Perspectives" at the Simons Institute @Berkeley
 - **7 May 24**
   - I'm thrilled to announce the successful completion of my PhD journey with the defense of my dissertation titled "Explaining Deep Neural Networks by Leveraging Intrinsic Methods." 
 - **30 Apr 24**
