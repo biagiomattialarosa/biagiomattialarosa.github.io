@@ -9,7 +9,7 @@ comments: false
 
 ## Collaborations
 
-During my academic journey, I was lucky to be involved in many collaborations with different research groups and amazing students and collaborators. I deeply believe that research is a community effort where the union and sharing of knowledge is more powerful than individualities.
+During my academic journey, I was lucky to be involved in many collaborations with different research groups and amazing students and collaborators. I deeply believe that research is a community effort where the sharing of knowledge and collaborations are more powerful than individualities.
 
 I am open to any collaboration with professors and postdoctoral researchers as long as there is a mutual interest in the topics and our principles are aligned. Bonus point if you are located in the **Bay Area**! Interdisciplinary collaborations are more than welcome (bonus point for people from neuroscience!)!
 
