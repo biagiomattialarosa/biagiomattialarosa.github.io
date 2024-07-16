@@ -10,6 +10,30 @@ comments: false
 
 ### Incoming / Pre-Prints
 
+### 2024
+- **Explaining Deep Neural Networks by Leveraging Intrinsic Methods** 
+  <br>Biagio La Rosa
+  <br> <em>PhD Thesis</em><br>
+<a href="javascript:toggleBibtex('LaRosa2024thesis')">[BibTeX]</a>
+<a href="https://hdl.handle.net/11573/1715783">[PDF]</a>
+<a href="https://arxiv.org/abs/2310.18443">[ArXiv]</a>
+<div id="bib_LaRosa2024thesis" class="bibtex noshow">
+<pre>
+{% raw %}
+@phdthesis{LaRosa2024thesis,
+  title        = {Explaining Deep Neural Networks by Leveraging Intrinsic Methods},
+  author       = {Biagio {La Rosa}},
+  year         = 2024,
+  month        = {May},
+  address      = {Rome, IT},
+  school       = {Sapienza University of Rome},
+  type         = {PhD thesis}
+}
+{% endraw %}
+</pre>
+</div>
+
+
 ### 2023
 
 - **Towards a fuller understanding of neurons with Clustered Compositional Explanations** 
