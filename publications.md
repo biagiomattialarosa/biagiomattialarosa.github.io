@@ -15,6 +15,7 @@ comments: false
   <br>Biagio La Rosa
   <br> <em>PhD Thesis</em><br>
 <a href="javascript:toggleBibtex('LaRosa2024thesis')">[BibTeX]</a>
+<a href="https://arxiv.org/abs/2407.12243">[ArXiv]</a>
 <a href="https://iris.uniroma1.it/retrieve/bcb5fc17-ec7e-42e3-acd9-c63e5a098111/Tasi_dottorato_LaRosa.pdf">[PDF]</a>
 
 <div id="bib_LaRosa2024thesis" class="bibtex noshow">
