@@ -17,6 +17,7 @@ brainstorm as a group, and analyze and criticize a paper. You need just to fill 
 in order to be included in the mailing list and get access to the calendar events.
 The group is active since 2023 and discusses papers on Explainable AI (XAI), and we assume every member has a basic background in XAI. 
 Our group has been quite heterogeneous, so we discuss papers from several domains (vision, graphs, NLP, RL, classic AI, etc).
+
 Below you can find the news about the scheduled presentation for 2024/2025 season.
 
 - **12 Nov 24**
