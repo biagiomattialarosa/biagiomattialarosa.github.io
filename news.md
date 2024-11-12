@@ -6,6 +6,8 @@ tags: [news]
 modified: 14-12-2021
 comments: false
 ---
+- **8 Nov 24**
+  - Happy to be both a panelist and a speaker at the AI Research Symposium @UCSC
 - **8 Jul 24**
   - Officially started my position as postdoctoral researcher at UCSC!
 - **24-27 Jun 24**
