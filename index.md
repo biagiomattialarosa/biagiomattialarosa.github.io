@@ -4,7 +4,7 @@ title: About Me
 url: /
 permalink: /
 description: 
-tags: [Biagio La Rosa, AI, XAI, Explainable Artificial Intelligence, UCSC]
+tags: [Biagio (Mattia) La Rosa, AI, XAI, Explainable Artificial Intelligence, UCSC]
 image:
   feature: 
 ---
