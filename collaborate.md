@@ -1,28 +1,23 @@
 ---
 layout: onlymarkdown
 permalink: /collaborate/
-title: Collaborations and Supervision
+title: Mentoring
 tags: [collaborate]
 modified: 8-7-2014
 comments: false
 ---
 
-## Collaborations
-
-During my academic journey, I was lucky to be involved in many collaborations with different research groups and amazing students and collaborators. I deeply believe that research is a community effort where the sharing of knowledge and collaborations are more powerful than individualities.
-
-I am open to any collaboration with professors and postdoctoral researchers as long as there is a mutual interest in the topics and our principles are aligned. Bonus point if you are located in the **Bay Area**! Interdisciplinary collaborations are more than welcome (bonus point for people from neuroscience!)!
-
-If you are interested, please contact me via email or LinkedIn.
 
 
 
-## Supervision
-I am available for supervision/mentoring of students on topics related to eXplainable Artificial Intelligence. Both international (remote meetings only) and local students are welcome. I am open to students at any level (undergrads, masters, PhDs) as long as they have the expected knowledge from a student of their level before joining the project.
+
+## Mentoring
+I am available to mentor students on topics related to eXplainable Artificial Intelligence. Both international and out-of-country (remote meetings only) and local students are welcome. I am open to students at any level (undergrads, masters, PhDs). The project and the mentoring style will be adapted to your goals, desires, and background.  
 
 There are several available projects, but I would be happy to help you with your idea if you have any. Below, you can find a list of topics (and related papers) on which I have ideas and projects. 
 
-If you are interested in my supervision, please send me an email with the subject **[supervision]**, including some info about you and your interests. If you are interested in one of the topics listed below, please read the related papers and think about possible extensions. Usually, my response time is less than one day.
+If you are interested in my supervision, please email me with the subject **[mentoring]**, including some info about you and your interests. If you are interested in one of the topics listed below, please read the related papers and think about possible extensions. Usually, my response time is less than one day.
+
 
 
 
@@ -61,3 +56,10 @@ You can check the projects available at <a href="https://aiea-lab.github.io/">AI
 
 
 
+<!-- ## Collaborations
+
+During my academic journey, I was lucky to be involved in many collaborations with different research groups and amazing students and collaborators. I deeply believe that research is a community effort where the sharing of knowledge and collaborations are more powerful than individualities.
+
+I am open to any collaboration with professors and postdoctoral researchers as long as there is a mutual interest in the topics and our principles are aligned. Bonus point if you are located in the **Bay Area**! Interdisciplinary collaborations are more than welcome (bonus point for people from neuroscience!)!
+
+If you are interested, please contact me via email or LinkedIn. -->
