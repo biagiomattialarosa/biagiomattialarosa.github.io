@@ -12,7 +12,8 @@ comments: false
 
 
 ## Mentoring
-I am available to mentor students on topics related to eXplainable Artificial Intelligence. Both international and out-of-country (remote meetings only) and local students are welcome. I am open to students at any level (undergrads, masters, PhDs). The project and the mentoring style will be adapted to your goals, desires, and background.  
+I am available to mentor students on topics related to eXplainable Artificial Intelligence. Both international and out-of-country (remote meetings only) and local students are welcome. I am open to students at any level (undergrads, masters, PhDs). The project and the mentoring style will be adapted to your goals, desires, and background.  Women, first-generation students, and underrepresented minorities are strongly encouraged to contact me if interested.
+
 
 There are several available projects, but I would be happy to help you with your idea if you have any. Below, you can find a list of topics (and related papers) on which I have ideas and projects. 
 
