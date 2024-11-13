@@ -20,7 +20,26 @@ Our group has been quite heterogeneous, so we discuss papers from several domain
 
 Below you can find the news about the scheduled presentation for 2024/2025 season.
 
+- **26 Nov 24**
+  - TBD
 - **12 Nov 24**
   - "MambaLRP: Explaining Selective State Space Sequence Models". *Arnoush Rezaei Jafari, Gregoire Montavon, Klaus-Robert Muller, and Oliver Eberle*
 - **29 Oct 24**
   - "Explain via Any Concept: Concept Bottleneck Model with Open Vocabulary Concepts". *Andong Tan, Fengtao Zhou, and Hao Chen*
+
+Past presentations (2023/2024)
+- Concept Learning for Interpretable Multi-Agent Reinforcement Learning. *Renos Zabounidis, Joseph Campbell, Simon Stepputtis, Dana Hughes, Katia Sycara*
+- Interpretable Concept Bottlenecks to Align Reinforcement Learning Agents. *Quentin Delfosse, Sebastian Sztwiertnia, Mark Rothermel, Wolfgang Stammer, Kristian Kersting*
+- IA-RED2: Interpretability-Aware Redundancy Reduction for Vision Transformers. *Bowen Pan, Rameswar Panda, Yifan Jiang, Zhangyang Wang, Rogerio Feris, Aude Oliva*
+- This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations. *Chiyu Ma, Brandon Zhao, Chaofan Chen, Cynthia Rudin*
+- CLIP-Dissect: Automatic Description of Neuron Representations in Deep Vision Networks. *Tuomas Oikarinen, Tsui-Wei Weng*
+- Everybody Needs a Little HELP: Explaining Graphs via Hierarchical Concepts. *Jonas Jürß, Lucie Charlotte Magister, Pietro Barbiero, Pietro Liò, Nikola Simidjievski*
+- Concept Bottleneck Generative Models. *Aya Abdelsalam Ismail, Julius Adebayo, Hector Corrada Bravo, Stephen Ra, Kyunghyun Cho*
+- Interpretable Concept Bottlenecks to Align Reinforcement Learning Agents. *Quentin Delfosse, Sebastian Sztwiertnia, Mark Rothermel, Wolfgang Stammer, Kristian Kersting*
+- KAN: Kolmogorov-Arnold Networks. *Ziming Liu, Yixuan Wang, Sachin Vaidya, Fabian Ruehle, James Halverson, Marin Soljačić, Thomas Y. Hou, Max Tegmark*
+- Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet. *Adly Templeton, Tom Conerly, Jonathan Marcus, Jack Lindsey, Trenton Bricken, Brian Chen, Adam Pearce, Craig Citro, Emmanuel Ameisen, Andy Jones, Hoagy Cunningham, Nicholas L Turner, Callum McDougall, Monte MacDiarmid, Alex Tamkin, Esin Durmus, Tristan Hume, Francesco Mosconi, C. Daniel Freeman, Theodore R. Sumers, Edward Rees, Joshua Batson, Adam Jermyn, Shan Carter, Chris Olah, Tom Henighan*
+- Interpreting Language Models with Contrastive Explanations. *Kayo Yin, Graham Neubig*
+- Locating and Editing Factual Associations in GPT. *Kevin Meng, David Bau, Alex Andonian, Yonatan Belinkov*
+- From attribution maps to human-understandable explanations through Concept Relevance Propagation. **Reduan Achtibat, Maximilian Dreyer, Ilona Eisenbraun, Sebastian Bosse, Thomas Wiegand, Wojciech Samek & Sebastian Lapuschkin*
+- What s in the Box? Exploring the Inner Life of Neural Networks with Robust Rules. *Jonas Fischer, Anna Olah, Jilles Vreeken*
+- Labeling Neural Representations with Inverse Recognition. *Kirill Bykov, Laura Kopf, Shinichi Nakajima, Marius Kloft, Marina M.-C. Höhne*
