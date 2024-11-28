@@ -15,8 +15,10 @@ Active since 2023, the group focuses on papers related to Explainable AI (XAI). 
 
 Below, you can find updates on the scheduled presentations for the 2024/2025 season. Currently, we meet every other Tuesday at 6:30 PM CET / 9:30 AM Los Angeles Time.
 
-- **26 Nov 24**
+- **10 Dec 24**
   - TBD
+- **26 Nov 24**
+  - "Linear Explanations for Individual Neurons". *Tuomas Oikarinen, Tsui-Wei Weng*
 - **12 Nov 24**
   - "MambaLRP: Explaining Selective State Space Sequence Models". *Arnoush Rezaei Jafari, Gregoire Montavon, Klaus-Robert Muller, and Oliver Eberle*
 - **29 Oct 24**
