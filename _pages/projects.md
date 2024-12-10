@@ -1,13 +1,14 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description:
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [available, coming soon]
 horizontal: false
 ---
+ This list includes research areas I am interested in and potential areas for student projects. The projects are divided into two categories: **available** include research areas we are currently working and/or where I have several projects ready-to-go available for students; **coming soon** include areas we have explored in the past or are interested in but where there are not ready-to-go projects (these projects will be highly exploratory in their initial stages.!). Each project page includes a brief summary of the goals, domains being explored, and reference papers related to the projects in that area. 
 
 <!-- pages/projects.md -->
 <div class="projects">

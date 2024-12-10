@@ -1,25 +1,31 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Engineering 2 Room 485</p>
+    <p>1156 High Street4</p>
+    <p>Santa Cruz, California 95060</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Postdoctoral researcher at the <a href="https://www.ucsc.edu/">University of California, Santa Cruz</a>, member of the <a href="https://aiea-lab.github.io/">AIEA lab</a> led by Prof. <a href="https://scholar.google.it/citations?user=UFT_ijYAAAAJ&hl=it&oi=ao">Leilani Gilpin</a>. I earned my PhD in Computer Engineering from <a href="https://www.uniroma1.it/">Sapienza University of Rome</a>, where ny Ph.D. dissertation was honored as one of the top 5% at the Sapienza University of Rome. My PhD journey was supervised by the amazing <a href="http://robertocapobianco.com/">Prof. Roberto Capobianco</a>.  During my Ph.D I was also a visiting scholar at UCSC, supervised by prof. Leilani Gilpin. I got a M.S. degree in "Artificial Intelligence and Robotics" under the guidance of <a href="http://robertocapobianco.com/">Prof. Roberto Capobianco</a> and a B.S. degree in "Computer Science" under the supervision of <a href="http://wwwusers.di.uniroma1.it/~navigli/"> Prof. Roberto Navigli</a>, both from Sapienza University of Rome.<br>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<br>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+**Research**: I am mostly interested in theories, methodologies, and designs that make the most advanced AI techniques able to explain themselves. Specifically, I focus on foundational aspects of the emerging field of **explanatory deep neural networks**. My work typically integrates tools from adjacent fields (e.g., statistics, classical AI) with components embedded directly within deep neural networks to improve their interpretability. I am particularly interested in techniques that can be applied across diverse domains and interdisciplinary research. My research so far has investigated methods related to neuron analysis (mechanistic interpretability), memory-based networks, attention and novel design for self-interpretable deep neural networks.
+<br>
+<br>
+
+**Name Disclaimer**:  My preferred name is `Mattia`, but you are welcome to use Biagio if that is more convenient for you. Currently, I publish under the name Biagio La Rosa, but I don't exclude to use my preferred name for future publications.
+
