@@ -12,5 +12,4 @@ category: coming soon
 **Reference Papers**: 
 1. Survey: [<a href="https://dl.acm.org/doi/full/10.1145/3616864">LINK</a>] 
 2. Reward Decomposition: [<a href="https://par.nsf.gov/servlets/purl/10159391">LINK</a>]
-3. Elements: [<a href="https://www.sciencedirect.com/science/article/pii/S000437022030117X">LINK</a>]
-4. Concept Learning : [<a href=" https://arxiv.org/abs/2302.12232">LINK</a>]
+3. Concept Learning : [<a href=" https://arxiv.org/abs/2302.12232">LINK</a>]
