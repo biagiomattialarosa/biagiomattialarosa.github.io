@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /reading/
+permalink: /rg/
 title: Reading Group
 description:
 nav: true
