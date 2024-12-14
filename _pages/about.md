@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Engineering 2 Room 485</p>
-    <p>1156 High Street4</p>
+    <p>1156 High Street</p>
     <p>Santa Cruz, California 95060</p>
 
 news: true # includes a list of news items
