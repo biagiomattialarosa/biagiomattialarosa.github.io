@@ -7,7 +7,7 @@ importance: 5
 category: available
 related_publications: true
 ---
-This page provides a summary sheet that includes the general goal, reference papers (both my own and external) for an overview of the topic, and the domains explored. We are particularly interested in extending the application of these techniques beyond their traditional domains. If you have expertise in other areas (e.g., neuroscience, games, or audio models), we would be excited to explore potential extensions into those fields.
+This page provides a summary sheet that includes the general goal, reference papers (both mine and external) for an overview of the topic, as well as the domains explored so far. We are also interested in extending the applications of these techniques beyond their traditional domains. If you have expertise in other areas (e.g., neuroscience, gaming, or audio/speech modeling), we would be happy to explore potential extensions into those fields.
 
 **Goal**: The goal of this research area is to develop and improve Visual Analytics systems that facilitate the interpretation of deep neural networks by integrating explanation methods. While external collaborators handle the development of the visual interface, my research focuses on designing backbone systems and investigating novel explanation techniques tailored to specific user tasks.
 

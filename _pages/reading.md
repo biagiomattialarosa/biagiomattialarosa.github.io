@@ -7,11 +7,11 @@ nav: true
 nav_order: 6
 ---
 
-The :brain: :cloud_with_lightning: Brainstorm XAI Reading Group is an international group of researchers who enjoy brainstorming about scientific papers. The group fosters a **friendly, drama-free atmosphere and values diversity, equity, and inclusion**. We encourage members to express their opinions freely and celebrate the exchange of diverse perspectives and cultural backgrounds.
+The :brain: :cloud_with_lightning: Brainstorm XAI Reading Group is an international group of researchers who enjoy discussing and brainstorming about scientific papers. The group fosters a **friendly, drama-free atmosphere and values diversity, equity, and inclusion**. We encourage members to express their opinions freely and celebrate the diversity of perspectives and cultural backgrounds.
 
-The primary goal of each meeting is not just to understand the papers but to brainstorm their weak points, potential extensions, strengths, applications, and more. The group is open to anyone (students, researchers, or professors) who enjoys to share ideas, brainstorm collaboratively, and critically analyze papers. To join, simply fill out this form: <a href="https://forms.gle/UJKV2nhZkwKzJsfU9">LINK</a>. Once registered, you’ll be added to the mailing list and gain access to calendar events.
+The primary goal of each meeting is not only to understand the papers but also to brainstorm their weak points, potential extensions, strengths, applications, and more. The group is open to anyone (students, researchers, or professors) who enjoys sharing ideas, brainstorm collaboratively, and critically analyze papers. To join, simply fill out this form: <a href="https://forms.gle/UJKV2nhZkwKzJsfU9">LINK</a>. Once registered, you’ll be added to the mailing list and given access to calendar events.
 
-Active since 2023, the group focuses on papers related to Explainable AI (XAI). We assume members have a basic understanding of XAI, and discussions span a wide range of domains, including vision, graphs, NLP, RL, and classical AI.
+Active since 2023, the group focuses on papers related to Explainable AI (XAI). We assume members have a basic understanding of XAI, and discussions span a wide range of domains, including vision, graphs, NLP, reinforcement learning, and classical AI.
 
 Below, you can find updates on the scheduled presentations for the 2024/2025 season. Currently, we meet every other Tuesday at 6:30 PM CET / 9:30 AM Los Angeles Time.
 

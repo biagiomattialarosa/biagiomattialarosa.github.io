@@ -1,17 +1,17 @@
 ---
 layout: page
 title: Interpretable Deep Neural Networks
-description: This research direction investigates designs of self-interpretable deep neural networks—AI systems capable of providing explanations alongside their predictions. This involves either generalizing existing designs to novel domains and tasks or creating entirely new designs from scratch. 
+description: This research direction investigates designs of self-interpretable deep neural networks capable of providing explanations alongside their predictions. This involves either generalizing existing designs to novel domains and tasks or creating new ones from scratch. 
 img: assets/img/memory.png
 importance: 1
 category: available
 related_publications: true
 ---
-This page provides a summary sheet that includes the general goal, reference papers (both my own and external) for an overview of the topic, and the domains explored. We are particularly interested in extending the application of these techniques beyond their traditional domains. If you have expertise in other areas (e.g., neuroscience, games, or audio models), we would be excited to explore potential extensions into those fields.
+This page provides a summary sheet that includes the general goal, reference papers (both mine and external) for an overview of the topic, as well as the domains explored so far. We are also interested in extending the applications of these techniques beyond their traditional domains. If you have expertise in other areas (e.g., neuroscience, gaming, or audio/speech modeling), we would be happy to explore potential extensions into those fields.
 
-**Goal**:  The goal of this research direction is to develop self-interpretable deep neural networks—AI systems capable of providing explanations alongside their predictions. This involves either generalizing existing designs to novel domains and tasks or creating entirely new designs from scratch. Thus far, our work has focused on leveraging memory mechanisms, prototypes, and interpretable axes as foundational elements for these designs.
+**Goal**:  The goal of this research direction is to develop self-interpretable deep neural networks capable of providing explanations alongside their predictions. This involves either generalizing existing designs to novel domains and tasks or creating new ones from scratch. Thus far, our work has focused on leveraging memory mechanisms, prototypes, and interpretable axes as foundational elements for these designs.
 
-**Domains**: NLP, Vision, Chemistry, Robot Navigation,
+**Domains**: NLP, Vision, Chemistry, Robot Navigation.
 
 **Reference Papers**: 
 1. Memory: [{% cite LaRosa2022 %}]
