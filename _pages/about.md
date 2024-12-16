@@ -23,7 +23,7 @@ I am a Postdoctoral researcher at the <a href="https://www.ucsc.edu/">University
 <br>
 
 
-**Research**: I am mostly interested in theories, methodologies, and designs that make the most advanced AI techniques able to explain themselves. Specifically, I focus on foundational aspects of the emerging field of **explanatory deep neural networks**. My work typically integrates tools from adjacent fields (e.g., statistics, classical AI) with components embedded directly within deep neural networks to improve their interpretability. I am particularly interested in techniques that can be applied across diverse domains and interdisciplinary research. My research so far has investigated methods related to neuron analysis (mechanistic interpretability), memory-based networks, attention mechanisms, and novel designs for self-interpretable deep neural networks.
+**Research**: I am mostly interested in theories, methodologies, and designs that make the most advanced AI techniques able to explain themselves. Specifically, I focus on foundational aspects of the emerging field of **explanatory deep neural networks**. My work typically integrates tools from adjacent fields (e.g., statistics, classical AI) with components embedded directly within deep neural networks to improve their interpretability. I am particularly interested in techniques that can be applied across multiple domains and interdisciplinary research. My research so far has investigated methods related to neuron analysis (mechanistic interpretability), memory-based networks, attention mechanisms, and novel designs for self-interpretable deep neural networks.
 <br>
 <br>
 
