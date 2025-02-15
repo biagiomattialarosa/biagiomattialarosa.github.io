@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /alignment/
+permalink: /alignment2/
 title: Alignment Form
 redirect: https://forms.gle/U2uwV2M65jVCutRaA
 description:
