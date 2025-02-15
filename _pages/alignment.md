@@ -2,6 +2,7 @@
 layout: page
 permalink: /alignment/
 title: Alignment Form
+redirect: https://forms.gle/FNVsEGshxqyBY1i19
 description:
 nav: false
 nav_order: 6
