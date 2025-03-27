@@ -14,16 +14,17 @@ The primary goal of each meeting is not only to understand the papers but also t
 Active since 2023, the group focuses on papers related to Explainable AI (XAI). We assume members have a basic understanding of XAI, and discussions span a wide range of domains, including vision, graphs, NLP, reinforcement learning, and classical AI.
 
 Below, you can find updates on the scheduled presentations for the 2024/2025 season. Currently, we meet every other Tuesday at 6:30 PM CET / 9:30 AM Los Angeles Time.
-
-- **18 Feb 25**
+- **4th Mar 35** 
+  - "Explanations of Deep Language Models Explain Language Representations in the Brain". *Maryam Rahimi, Yadollah Yaghoobzadeh, Mohammad Reza Daliri*
+- **18th Feb 25**
   - "Extracting Interpretable Task-Specific Circuits from Large Language Models for Faster Inference". *Jorge Garcia-Carrasco, Alejandro Mate, Juan Trujillo*.
-- **10 Dec 24**
+- **10th Dec 24**
   - "GraphTrail: Translating GNN Predictions into Human-Interpretable Logical Rules". *Burouj Armgaan, Manthan Dalmia, Sourav Medya, and Sayan Ranu*
-- **26 Nov 24**
+- **26th Nov 24**
   - "Linear Explanations for Individual Neurons". *Tuomas Oikarinen, Tsui-Wei Weng*
-- **12 Nov 24**
+- **12th Nov 24**
   - "MambaLRP: Explaining Selective State Space Sequence Models". *Arnoush Rezaei Jafari, Gregoire Montavon, Klaus-Robert Muller, and Oliver Eberle*
-- **29 Oct 24**
+- **29th Oct 24**
   - "Explain via Any Concept: Concept Bottleneck Model with Open Vocabulary Concepts". *Andong Tan, Fengtao Zhou, and Hao Chen*
 
 Past presentations (2023/2024)
