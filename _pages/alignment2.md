@@ -1,11 +1,12 @@
 ---
 layout: page
 permalink: /alignment2/
-title: Alignment Form
-redirect: https://forms.gle/U2uwV2M65jVCutRaA
+title: Background Form
 description:
 nav: false
 nav_order: 6
 ---
+Please fill out the following form. Note that this form is not used to evaluate you or to filter out students but to align your and our expectations and philosophy.
 
-<p>If your browser does not redirect you, please use <a href="https://forms.gle/U2uwV2M65jVCutRaA">this link</a></p>.
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSduKUbRQQIiH2WBxP6o2-2roQN8aesAOUll1D5ObJxbJtzP1w/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
