@@ -23,9 +23,10 @@ I am a Postdoctoral researcher at the <a href="https://www.ucsc.edu/">University
 <br>
 
 
-**Research**: I am mostly interested in theories, methodologies, and designs that make the most advanced AI techniques able to explain themselves. Specifically, I focus on foundational aspects of the emerging field of **explanatory deep neural networks**. My work typically integrates tools from adjacent fields (e.g., statistics, classical AI) with components embedded directly within deep neural networks to improve their interpretability. I am particularly interested in techniques that can be applied across multiple domains and interdisciplinary research. My research so far has investigated methods related to neuron analysis (mechanistic interpretability), memory-based networks, attention mechanisms, and novel designs for self-interpretable deep neural networks.
+**Research**: I am mostly interested in theories, methodologies, and designs that make the most advanced AI techniques able to explain themselves. Specifically, I focus on foundational aspects of the emerging field of **interpretable deep neural networks**.  My work explores designs for self-interpretable deep neural networks and develop methodologies to analyze components within opaque models in order to better understand the knowledge they learn and the predictions they make. My work typically integrates tools from adjacent fields (e.g., statistics, classical AI) with components embedded directly within deep neural networks to improve their interpretability. I am particularly interested in techniques that can be applied across multiple domains and interdisciplinary research. My research so far has investigated methods related to neuron alignment, sequential tasks, graphs, visual analytics, computer vision, and natural language processing.
 <br>
 <br>
 
-**Name Disclaimer**:  My preferred name is `Mattia`, but you are welcome to use Biagio if that is more convenient for you. Currently, I publish under the name Biagio La Rosa, but I don't exclude to use my preferred name for future publications.
+**Name Disclaimer**:  My preferred name is `Mattia` (or, better said, the name my parents have called me since birth), but you are welcome to use Biagio if that is more convenient for you. Currently, I publish under the name Biagio La Rosa, but I don't exclude to use my preferred name for future publications.
+
 
