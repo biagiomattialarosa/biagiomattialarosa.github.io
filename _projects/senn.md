@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interpretable Deep Neural Networks
+title: Self-Interpretable Deep Neural Networks
 description: This research direction investigates designs of self-interpretable deep neural networks capable of providing explanations alongside their predictions. This involves either generalizing existing designs to novel domains and tasks or creating new ones from scratch. 
 img: assets/img/memory.png
 importance: 1

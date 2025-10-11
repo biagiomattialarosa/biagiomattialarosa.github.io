@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Explaining Neurons
+title: Neuron Alignment
 description: This research area aims to understand what deep neural networks learn during the training process. Specifically, we are interested on analyzing the behavior of individual neurons and groups of neurons and discovering the concepts they learn to recognize and the relationships between these concepts. 
 img: assets/img/neurons.jpg
 importance: 2
@@ -9,7 +9,7 @@ related_publications: true
 ---
 This page provides a summary sheet that includes the general goal, reference papers (both mine and external) for an overview of the topic, as well as the domains explored so far. We are also interested in extending the applications of these techniques beyond their traditional domains. If you have expertise in other areas (e.g., neuroscience, gaming, or audio/speech modeling), we would be happy to explore potential extensions into those fields.
 
-**Goal**: The goal of this research area is to understand what deep neural networks learn during the training process. Recently, this field has been categorized under the umbrella term `Mechanistic Interpretability`. My research projects usually focus on analyzing the behavior of individual neurons and groups of neurons, identifying the concepts they learn to recognize, and understanding the relationships between these concepts. They typically combine tools from classical AI (e.g., heuristic search and clustering), statistical analysis, and recent advancements in AI to explore this direction.
+**Goal**: The goal of this research area is to understand what deep neural networks learn during the training process. My research projects usually focus on analyzing the behavior of individual neurons and groups of neurons, identifying the concepts they learn to recognize, and understanding the relationships between these concepts. These methods typically combine tools from classical AI (e.g., heuristic search and clustering), statistical analysis, and recent advancements in AI.
 
 **Domains**: NLP, Vision. 
 
