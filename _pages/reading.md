@@ -3,7 +3,7 @@ layout: page
 permalink: /rg/
 title: Reading Group
 description:
-nav: true
+nav: false
 nav_order: 6
 ---
 
