@@ -16,8 +16,10 @@ This page provides a summary sheet that includes the general goal, reference pap
 **Reference Papers**: 
 1. Compositional Explanations: [<a href="https://arxiv.org/abs/2006.14032">Seminal Paper</a>]
 2. Clustered Compositional Explanations: [{% cite LaRosa2023Towards %}]
-3. Open Vocabulary Compoisitional Explanations: [{% cite LaRosa2025open %}]
-4. Optimal Compositional Explanations: [{% cite LaRosa2025optimal %}]
-2. Metrics : [{% cite Makinwa2022 %}]
+3. Open Vocabulary Compoisitional Explanations: [{% cite LaRosa2026open %}]
+4. Optimal Compositional Explanations: [{% cite LaRosa2026guaranteed %}]
+5. Metrics : [{% cite Makinwa2022 %}]
+6. Tracking Concept-Level Representation Changes Under Network Pruning: [{% cite Srinivas2026 %}]
+
 
 
