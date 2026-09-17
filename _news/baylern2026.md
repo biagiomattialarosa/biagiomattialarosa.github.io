@@ -1,3 +1,4 @@
+---
 layout: post
 date: 2026-09-15 11:10:01-0400
 inline: true
