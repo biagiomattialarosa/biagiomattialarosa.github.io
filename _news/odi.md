@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Memory-based Self-Explainable Early Exit Networks" has been accepted at the Workshop on On-Device Intelligence: Foundation Models under Real-World Constraints @ NeurIPS 2026! Congratulation to our undergrad Evan Kaiden!!
+Our paper "Memory-based Self-Explainable Early Exit Networks" has been accepted at the Workshop on On-Device Intelligence: Foundation Models under Real-World Constraints @ NeurIPS 2026! Congratulation to our undergrad Evan Kaiden!!!
