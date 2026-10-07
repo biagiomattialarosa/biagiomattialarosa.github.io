@@ -1,0 +1,320 @@
+/*******************************************************************************
+ * Custom style layer (inspired by minalee-research.github.io)
+ * All visual overrides live here so the al-folio template stays untouched.
+ * To revert everything: remove the "custom" import from assets/css/main.scss.
+ ******************************************************************************/
+
+// Fonts
+$font-display: "Source Serif 4", Georgia, serif;
+$font-body: "Source Sans 3", system-ui, -apple-system, sans-serif;
+
+/*******************************************************************************
+ * Step 1 — Typography
+ ******************************************************************************/
+
+body {
+  font-family: $font-body;
+  font-size: 1.0625rem; // 17px
+  font-weight: 400; // template default is 300 (light)
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.navbar-brand {
+  font-family: $font-display;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+// Name on the home page
+.post-header .post-title {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+
+  .font-weight-bold {
+    font-weight: 600 !important;
+  }
+}
+
+/*******************************************************************************
+ * Step 2 — Colors (keep the blue accent, softer text greys)
+ ******************************************************************************/
+
+:root {
+  --global-text-color: #1a1a1a; // was pure black
+  --global-text-color-light: #888; // dates, captions
+  --global-hover-color: #1b7a96; // slightly darker blue on hover
+  --global-divider-color: #e5e7eb; // lighter hairlines
+}
+
+html[data-theme="dark"] {
+  --global-hover-color: #5cc0dc;
+}
+
+a,
+table.table a {
+  transition: color 0.15s;
+
+  &:hover {
+    color: var(--global-hover-color);
+    text-decoration: none;
+  }
+}
+
+/*******************************************************************************
+ * Step 3 — Navbar (small uppercase links, serif name, translucent blur)
+ ******************************************************************************/
+
+:root {
+  --nav-link-color: #555;
+}
+
+html[data-theme="dark"] {
+  --nav-link-color: #bbb;
+}
+
+.navbar {
+  opacity: 1; // template made the whole bar (text included) 95% opaque
+  background-color: color-mix(in srgb, var(--global-bg-color) 95%, transparent);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  border-bottom: 1px solid var(--global-divider-color);
+
+  .navbar-nav {
+    align-items: center;
+  }
+
+  // Name on the left (shown on all pages except home)
+  .navbar-brand.title {
+    font-family: $font-display;
+    font-size: 1.2rem;
+    font-weight: 600 !important;
+    color: var(--global-text-color);
+
+    .font-weight-bold {
+      font-weight: 600 !important;
+    }
+  }
+}
+
+.navbar.navbar-light .navbar-nav .nav-item {
+  .nav-link {
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: var(--nav-link-color);
+    padding: 0.25rem 0.6rem;
+
+    &:hover {
+      color: var(--global-text-color);
+    }
+  }
+
+  &.active > .nav-link {
+    color: var(--global-theme-color);
+    font-weight: 700;
+  }
+}
+
+/*******************************************************************************
+ * Step 4 — Home-page section headings ("Latest News", "Selected Publications")
+ ******************************************************************************/
+
+.post > article > h2 {
+  font-size: 1.4rem;
+  letter-spacing: 0.01em;
+  text-transform: capitalize; // "selected publications" -> "Selected Publications"
+  padding-left: 0.65rem;
+  border-left: 3px solid var(--global-theme-color);
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
+}
+
+/*******************************************************************************
+ * Step 5 — News list (compact rows, grey dates, hairline dividers)
+ ******************************************************************************/
+
+.news table {
+  margin-bottom: 0;
+
+  tr {
+    border-bottom: 1px solid var(--global-divider-color);
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+
+  th,
+  td {
+    padding: 0.6rem 0;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    vertical-align: top;
+  }
+
+  // Date column
+  th {
+    width: 1% !important; // overrides the inline 20% so the column hugs the date
+    white-space: nowrap;
+    padding-top: 0.7rem;
+    padding-right: 1.25rem;
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: var(--global-text-color-light);
+  }
+
+  td {
+    font-weight: 400;
+    color: var(--global-text-color);
+
+    a {
+      font-weight: 600;
+    }
+  }
+}
+
+/*******************************************************************************
+ * Step 6 — Publications (compact entries, small outlined buttons)
+ ******************************************************************************/
+
+.publications {
+  // Year separators: small uppercase grey label instead of the big faded number
+  h2.bibliography {
+    font-family: $font-body;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    text-align: left;
+    color: var(--global-text-color-light);
+    border-top: none;
+    border-bottom: 1px solid var(--global-divider-color);
+    padding-top: 0;
+    padding-bottom: 0.25rem;
+    margin-top: 1.75rem;
+    margin-bottom: 0.25rem;
+  }
+
+  ol.bibliography li {
+    margin-bottom: 0;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--global-divider-color);
+
+    &:last-child {
+      border-bottom: none;
+    }
+
+    // Venue badge: smaller, uppercase (keeps your per-venue colors)
+    .abbr abbr {
+      font-size: 0.65rem;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      padding: 0.25rem 0.4rem;
+      border-radius: 3px !important;
+    }
+
+    .title {
+      font-size: 0.95rem;
+      font-weight: 600;
+      line-height: 1.4;
+      margin-bottom: 0.1rem;
+    }
+
+    .author,
+    .periodical {
+      font-size: 0.85rem;
+      line-height: 1.5;
+      color: var(--nav-link-color);
+    }
+
+    .author > em {
+      // you, in the author list
+      font-weight: 600;
+      color: var(--global-text-color);
+      border-bottom: none;
+    }
+
+    .periodical em {
+      color: inherit;
+    }
+
+    .links {
+      margin-top: 0.3rem;
+
+      a.btn {
+        font-size: 0.65rem;
+        font-weight: 600;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+        padding: 0.1rem 0.45rem;
+        margin: 0 0.3rem 0.3rem 0;
+        border-radius: 3px;
+        border: 1px solid var(--global-divider-color);
+        color: var(--global-text-color-light);
+        box-shadow: none;
+
+        &:hover {
+          color: var(--global-theme-color);
+          border-color: var(--global-theme-color);
+        }
+      }
+    }
+  }
+}
+
+/*******************************************************************************
+ * Step 7 — Footer and social icons
+ ******************************************************************************/
+
+// Light footer instead of the dark bar
+:root,
+html[data-theme="dark"] {
+  --global-footer-bg-color: var(--global-bg-color);
+  --global-footer-text-color: var(--global-text-color-light);
+  --global-footer-link-color: var(--global-theme-color);
+}
+
+footer.fixed-bottom {
+  border-top: 1px solid var(--global-divider-color);
+  font-size: 0.8rem;
+}
+
+// Social icons on the home page: smaller, grey, accent on hover
+.social .contact-icons {
+  font-size: 1.6rem;
+  margin-top: 2rem;
+
+  a {
+    margin: 0 0.35rem;
+
+    i::before {
+      color: var(--global-text-color-light);
+    }
+  }
+}
+
+/*******************************************************************************
+ * Step 8 — Fixes
+ ******************************************************************************/
+
+// Bold text: the template uses weight 500, which is barely heavier than the
+// 400 body text set in Step 1. Use a real bold.
+strong,
+b {
+  font-weight: 700;
+}
+
+// Your name in publication author lists: bold + accent color
+.publications ol.bibliography li .author > em {
+  font-weight: 700;
+  color: var(--global-theme-color);
+}
