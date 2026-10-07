@@ -155,7 +155,7 @@ html[data-theme="dark"] {
   th,
   td {
     padding: 0.6rem 0;
-    font-size: 0.9rem;
+    font-size: 0.95rem; // ~16px, closer to the 17px body text
     line-height: 1.5;
     vertical-align: top;
   }
@@ -164,9 +164,9 @@ html[data-theme="dark"] {
   th {
     width: 1% !important; // overrides the inline 20% so the column hugs the date
     white-space: nowrap;
-    padding-top: 0.7rem;
+    padding-top: 0.65rem;
     padding-right: 1.25rem;
-    font-size: 0.8rem;
+    font-size: 0.85rem;
     font-weight: 400;
     color: var(--global-text-color-light);
   }
@@ -327,4 +327,84 @@ b {
   white-space: normal;
   line-height: 1.3;
   height: auto;
+}
+
+/*******************************************************************************
+ * Step 11 — Projects page (flat cards, same headers as Publications)
+ ******************************************************************************/
+
+.projects {
+  // Category separators ("available", "coming soon"): same small grey label
+  // as the publication years, instead of the big faded right-aligned title
+  h2.category {
+    font-family: $font-body;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    text-align: left;
+    color: var(--global-text-color-light);
+    border-top: none;
+    border-bottom: 1px solid var(--global-divider-color);
+    padding-top: 0;
+    padding-bottom: 0.25rem;
+    margin-top: 2rem;
+    margin-bottom: 1.25rem;
+  }
+
+  a:hover {
+    text-decoration: none;
+  }
+
+  // Cards: flat, thin border, accent border on hover
+  .card {
+    box-shadow: none !important;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 6px;
+    overflow: hidden;
+    transition: border-color 0.15s;
+
+    &:hover {
+      border-color: var(--global-theme-color);
+    }
+
+    figure {
+      margin: 0;
+      border-bottom: 1px solid var(--global-divider-color);
+    }
+
+    .card-img-top {
+      object-fit: cover;
+
+      // Wide diagram: show it whole instead of cropping the sides
+      &[src*="memory.png"] {
+        object-fit: contain;
+        padding: 0.5rem;
+        background: #fff;
+      }
+    }
+
+    .card-body {
+      padding: 0.9rem 1rem 1rem;
+    }
+
+    .card-title {
+      font-family: $font-display;
+      font-size: 1.15rem;
+      font-weight: 600;
+      line-height: 1.3;
+      color: var(--global-text-color);
+      margin-bottom: 0.4rem;
+    }
+
+    &:hover .card-title {
+      color: var(--global-theme-color);
+    }
+
+    .card-text {
+      font-size: 0.85rem;
+      line-height: 1.5;
+      color: var(--nav-link-color);
+    }
+  }
 }
